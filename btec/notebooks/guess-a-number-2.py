@@ -11,7 +11,7 @@ uans = 'no'
 while (uans != 'yes'):
     
     #take the variable uans as the user input. It should be higher, lower or yes. Anything else will fail.
-    uans = raw_input('Is your number ' + str(rnd) + '? Please answer higher, lower or yes. ')
+    uans = str(input('Is your number ' + str(rnd) + '? Please answer higher, lower or yes. '))
     
     if (uans == 'lower'):
         #only use values lower than the number guessed
@@ -24,4 +24,4 @@ while (uans != 'yes'):
         print('Great! I knew computers were smarter than humans!')
     else:
         #error if input is something other than higher, lower or yes
-        print("Sorry. I didn't get that. Please answer higher, lower or yes.")
+        print("Sorry. I didn't get that. Please answer higher, lower or yes.")1
