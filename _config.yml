@@ -3,5 +3,9 @@ name: Personal Website of Scott Morgan
 homepage: /index.html
 cvlink: CV | <a href="/cv/cv.pdf" target="_blank">pdf</a>
 
+include: ["_pages"]
+permalink: /:title/
+
 plugins:
   - jekyll-seo-tag
+  - jekyll-paginate
