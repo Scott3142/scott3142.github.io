@@ -21,6 +21,24 @@ contact: The main point of contact for all questions relating to this course wil
 </ul> 
 <br/>
 
+<h4>Resources &amp; Useful Links:</h4>
+<ul>
+  <li>Web Development Related:</li>
+  <ul>
+    {% for resource in site.data.teaching_resources.btec %}
+      <li><a href="{{ resource.url }}" target="_blank"><em>{{ resource.text }}</em></a></li>
+    {% endfor %}
+  </ul>
+  <br/>
+  <li>General:</li>
+  <ul>
+    {% for resource in site.data.teaching_resources.common %}
+      <li><a href="{{ resource.url }}" target="_blank"><em>{{ resource.text }}</em></a></li>
+    {% endfor %}
+  </ul>
+</ul>
+<br/>
+
 <h4>Quick Links:</h4>
 <ul>
   {% for link in site.data.btec.links %}

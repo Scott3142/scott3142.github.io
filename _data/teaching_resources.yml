@@ -1,0 +1,36 @@
+common:
+
+  - text: Project Euler
+    url: https://projecteuler.net/
+
+  - text: Codecademy
+    url: https://www.codecademy.com
+    
+  - text: Codewars
+    url: https://www.codecademy.com
+
+hnc:
+
+  - text: Raspberry Pi Web Server
+    url: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
+
+  - text: Raspberry Pi Wordpress Server
+    url: https://www.raspberrypi.org/learning/lamp-web-server-with-wordpress/worksheet/
+  
+btec:
+
+  - text: MIT App Inventor Resources
+    url: http://appinventor.mit.edu/explore/
+
+  - text: appinventor.org
+    url: http://www.appinventor.org/
+    
+  - text: Android Studio
+    url: https://developer.android.com/training/index.html
+    
+  - text: Udacity App Development Course
+    url: https://www.udacity.com/course/new-android-fundamentals--ud851
+    
+  - text: Samsung App Development Resources
+    url: http://www.scholastic.com/samsungacademy/teachers.aspx
+  
