@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Full STEAM Ahead"
-description: "On June 28th, the Cardiff SIAM-IMA Student Chapter organised the one-day ‘Full STEAM Ahead’ event, open to secondary school and FE College students, PhD students and staff."
 ---
 
 On June 28th, the Cardiff SIAM-IMA Student Chapter organised the one-day ‘Full STEAM Ahead’ event, open to secondary school and FE College students, PhD students and staff.
