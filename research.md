@@ -1,6 +1,7 @@
 ---
 title: Research
 layout: default
+permalink: /research/
 hero: My research is based primarily in fluid dynamics and in particular hydrodynamic stability theory. I am interested in laminar flow control techniques and have looked at oscillatory flows over rotating disks and flat plates.
 ---
 
