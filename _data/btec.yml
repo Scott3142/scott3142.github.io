@@ -1,0 +1,39 @@
+lessons: 
+
+  - text: Lesson 0 - Introduction
+    url: /btec/lessons/0/
+
+  - text: Lesson 1 - Basic Concepts
+    url: /btec/lessons/1/
+     
+  - text: Lesson 2 - Programming
+    url: /btec/lessons/2/
+    
+links:
+
+  - text: Assignments (Coming Soon) 
+    #url: /btec/assignment/
+    
+  - text: Design Brief (Coming Soon) 
+    #url: /btec/designbrief/
+
+  - text: Full Course Specification
+    url: /btec/specs/fullspec.pdf
+     
+  - text: Unit Specification
+    url: /btec/specs/unitspec.pdf
+    
+  - text: Contact Me
+    url: /contact/
+    
+timetable:
+  
+  - group: A
+    day: Fridays
+    time: 09:00 - 10:20
+    location: J/0.08
+    
+  - group: B
+    day: Fridays
+    time: 10:30 - 12:50
+    location: J/0.08

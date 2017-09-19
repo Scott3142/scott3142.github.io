@@ -1,0 +1,7 @@
+title: Scott Morgan
+name: Personal Website of Scott Morgan
+homepage: /index.html
+cvlink: CV | <a href="/cv/cv.pdf" target="_blank">pdf</a>
+
+plugins:
+  - jekyll-seo-tag

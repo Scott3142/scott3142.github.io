@@ -1,0 +1,27 @@
+lessons: 
+
+  - text: Lesson 0 - Introduction
+    url: /hnc/lessons/0/
+
+  - text: Lesson 1 - Basic Concepts
+    url: /hnc/lessons/1/
+     
+  - text: Lesson 2 - Servers and Hosting
+    url: /hnc/lessons/2/
+    
+links:
+
+  - text: Assignments (Coming Soon) 
+    #url: /hnc/assignment/
+     
+  - text: Unit Specification
+    url: /hnc/specs/unitspec.pdf
+    
+  - text: Contact Me
+    url: /contact/
+    
+timetable:
+  
+  - day: Fridays
+    time: 12:50 - 14:20
+    location: J/1.14

@@ -1,0 +1,9 @@
+<h1><a href="{{ site.homepage }}">Scott<span>Morgan</span></a></h1>
+
+<nav class="navbar sliding-panel-content">
+  <ul>
+    {% for link in site.data.navigation %}
+      <a href="{{ link.url }}">{{ link.title }}</a>
+    {% endfor %}
+  </ul>
+</nav>
