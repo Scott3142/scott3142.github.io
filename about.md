@@ -1,6 +1,7 @@
 ---
 title: About
 layout: default
+permalink: /about/
 
 heroRes: I am currently a PhD student studying Mathematics at Cardiff University, working alongside my supervisor <a href="https://www.cardiff.ac.uk/people/view/98638-davies-chris" target="_blank">Dr. Chris Davies</a>. My research is based primarily in fluid dynamics and in particular hydrodynamic stability theory. I am interested in laminar flow control techniques and have looked at oscillatory flows over rotating disks and flat plates. To find out more, visit my <a href="/research">research</a> pages or <a href="/contact">get in touch</a>!
 
