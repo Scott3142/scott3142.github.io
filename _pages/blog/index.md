@@ -1,13 +1,18 @@
 ---
 layout: pages
 permalink: /blog/
+
+hero: Just a few blog posts about things I've done or things I find interesting. Mainly focussed around Education, Raspberry Pi and various Outreach Projects. You can filter through the posts by clicking the handy links below. Enjoy!
 ---
 
+<p>{{ page.hero }}</p>
+<br/>
+
 <center>
-  <a href="/blog/index.html#bridgend" class="btn btn-ghost">Bridgend College</a>
-  <a href="/blog/index.html#education" class="btn btn-ghost">Education</a>
-  <a href="/blog/index.html#siam" class="btn btn-ghost">SIAM-IMA</a>
-  <!--<a href="/blog/index.html#misc" class="btn btn-ghost">Miscellaneous</a>-->
+  <a href="/blog/bridgend/" class="btn btn-ghost">Bridgend College</a>
+  <a href="/blog/education" class="btn btn-ghost">Education</a>
+  <a href="/blog/siam" class="btn btn-ghost">SIAM-IMA</a>
+  <a href="/blog/misc" class="btn btn-ghost">Miscellaneous</a>
 </center>
 
 <br/>
