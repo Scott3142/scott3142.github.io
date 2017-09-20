@@ -15,7 +15,7 @@ permalink: /blog/siam/
 
   <h2>SIAM-IMA Student Chapter</h2>
   {% for post in site.posts %}
-    {% if post.category contains "siam" %}
+    {% if post.category contains "SIAM" %}
       {% include article.html %}
     {% endif %}
   {% endfor %}

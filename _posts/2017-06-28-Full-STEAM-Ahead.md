@@ -2,7 +2,7 @@
 layout: post
 title: "Full STEAM Ahead"
 category: 
-  - siam
+  - SIAM
   - outreach
   - bridgend
   - highlight
