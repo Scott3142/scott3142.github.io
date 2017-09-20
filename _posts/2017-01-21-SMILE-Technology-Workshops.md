@@ -18,13 +18,3 @@ The Raspberry Pi Session involved Minecraft, Python and robotics using the CamJa
   <li><a href="https://picymru.com/picymru/webbot" target="_blank">Code to control Raspberry Pi robots</a> | Courtesy of PiCymru</li>
 </ul>
 <br/>
-
-The students of Bridgend College put together the video below after the event. Check it out!
-<br/><br/>
-
-<center>
-<video width="" height="410" controls>
-  <source src="/assets/smile.mp4" type="video/mp4">
-  Your browser does not support the video tag! Upgrade your browser to view the full content.
-</video>
-</center>
