@@ -2,17 +2,18 @@
 layout: pages
 permalink: /blog/
 
-hero: Just a few blog posts about things I've done or things I find interesting. Mainly focussed around Education, Raspberry Pi and various Outreach Projects. You can filter through the posts by clicking the handy links below. Enjoy!
+hero: Just a few blog posts about things I've done or things I find interesting. Mainly focussed around Education, Raspberry Pi and various Outreach Projects. You can filter the posts by clicking the handy links below. Enjoy!
 ---
 
 <p>{{ page.hero }}</p>
 <br/>
 
 <center>
-  <a href="/blog/bridgend/" class="btn btn-ghost">Bridgend College</a>
-  <a href="/blog/education" class="btn btn-ghost">Education</a>
-  <a href="/blog/siam" class="btn btn-ghost">SIAM-IMA</a>
-  <a href="/blog/misc" class="btn btn-ghost">Miscellaneous</a>
+  {% for link in site.data.blogtitles %}
+    {% if link.frontshow != "none" %}
+      <a href="{{ link.url }}" class="btn btn-ghost">{{ link.title }}</a>
+    {% endif %}
+  {% endfor %}
 </center>
 
 <br/>
@@ -21,39 +22,47 @@ hero: Just a few blog posts about things I've done or things I find interesting.
 
   <h2>Highlights</h2>
   {% for post in site.posts %}
-    {% if post.category == "highlight" %}
+    {% if post.category contains "highlight" %}
       {% include article.html %}
     {% endif %}
   {% endfor %}
   <br/><br/>
   
-  <h2 id="bridgend">Bridgend College</h2>
+  <h2>Bridgend College</h2>
   {% for post in site.posts %}
-    {% if post.category == "bridgend" %}
+    {% if post.category contains "bridgend" %}
       {% include article.html %}
     {% endif %}
   {% endfor %}
   <br/><br/>
   
-  <h2 id="education">Education</h2>
+  <h2>Outreach</h2>
   {% for post in site.posts %}
-    {% if post.category == "education" %}
+    {% if post.category contains "outreach" %}
       {% include article.html %}
     {% endif %}
   {% endfor %}
   <br/><br/>
   
-  <h2 id="siam">SIAM-IMA Student Chapter</h2>
+  <h2>SIAM-IMA Student Chapter</h2>
   {% for post in site.posts %}
-    {% if post.category == "SIAM" %}
+    {% if post.category contains "SIAM" %}
+      {% include article.html %}
+    {% endif %}
+  {% endfor %}
+  <br/><br/>
+
+  <h2>Conferences</h2>
+  {% for post in site.posts %}
+    {% if post.category contains "conference" %}
       {% include article.html %}
     {% endif %}
   {% endfor %}
   <br/><br/>
   
-  <!--<h2 id="misc">Miscellaneous</h2>-->
+  <h2>Miscellaneous</h2>
   {% for post in site.posts %}
-    {% if post.category == "misc" %}
+    {% if post.category contains "misc" %}
       {% include article.html %}
     {% endif %}
   {% endfor %}

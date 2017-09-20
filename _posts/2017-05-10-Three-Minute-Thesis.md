@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Three Minute Thesis"
-category: SIAM
+category: 
+  - SIAM
 ---
 
 On 10th May, the SIAM-IMA Student Chapter hosted its inaugural ‘three-minute-thesis’ event. Based on an idea developed by the University of Queensland, the aim for the speaker is to condense their work into just 3 minutes, and give the audience an accessible flavour of their research. Anyone who’s spent months and years working on a topic will tell you that this is no mean feat, and the brief left the speakers thinking hard about how to make themselves stand out in such a short amount of time.

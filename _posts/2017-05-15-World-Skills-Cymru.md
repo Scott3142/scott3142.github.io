@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "World Skills Cymru - Senedd"
-category: bridgend
+category: 
+  - bridgend
 ---
 
 On 15th May, I attended the World Skills Cymru event at the Senedd, showcasing Si and Pepper to local secondary schools on Pepper's first outing! We are looking to get involved with the World Skills Events on a larger scale. If you would like to know more, or are interested in being a mentor, <a href="/contact/">contact me</a> or check out the links below.

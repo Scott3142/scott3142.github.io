@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Success at the 5th SIAM National Student Chapter Conference!"
-category: SIAM
+category: 
+  - SIAM
+  - conference
 ---
 
 On May 27th, the SIAM Student Chapter at Cardiff University were host to the 5th National Student Chapter Conference with plenary talks from Prof. Rene de Borst and Dr. Julie Vile, along with student talks from Cardiff, Swansea, Manchester & Warwick.

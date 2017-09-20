@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /blog/siam/
+permalink: /blog/outreach/
 ---
 
 <center>
@@ -13,9 +13,9 @@ permalink: /blog/siam/
 
 <section class="post-list">
 
-  <h2>SIAM-IMA Student Chapter</h2>
+  <h2>Outreach</h2>
   {% for post in site.posts %}
-    {% if post.category contains "siam" %}
+    {% if post.category contains "outreach" %}
       {% include article.html %}
     {% endif %}
   {% endfor %}

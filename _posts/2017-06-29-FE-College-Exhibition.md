@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Further Education Exhibition - Senedd"
-category: bridgend
+category: 
+  - bridgend
 ---
 
 On 29th June, I attended the Further Education Exhibition at the Senedd, showcasing Si and Pepper to local secondary schools. My second visit to the Senedd this year after the World Skills Event and everyone was just as interested in the robots as last time round! Here's a video of Si doing Tai Chi - make sure you watch to the end...

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "My Prespective of SIAM AN16"
-category: SIAM
+title: "My Perspective of SIAM AN16"
+category: 
+  - SIAM
+  - conference
 ---
 
 Between 10th and 15th July I attended the international annual meeting of SIAM as the representative for Cardiff’s student chapter. This year the meeting was held in Boston and I had a fantastic time there. The conference was the largest one I’ve attended, with over 1500 delegates from countries all over the world. The talks were diverse and interesting, with several of the plenary speakers delivering some of the best lectures I’ve ever seen. Particular mention must be given of Tadashi Tokieda, who gave the public lecture on ‘toy models’. This was such an interesting talk, aimed at a general public audience, which I am sure piqued many non-academics’ interest in science – something which I am personally very passionate about.

@@ -1,24 +1,21 @@
 ---
 layout: pages
-permalink: /blog/bridgend
-
+permalink: /blog/bridgend/
 ---
 
 <center>
-  <a href="/blog/" class="btn btn-ghost">All</a>
-  <a href="/blog/bridgend/" class="btn btn-ghost">Bridgend College</a>
-  <a href="/blog/education" class="btn btn-ghost">Education</a>
-  <a href="/blog/siam" class="btn btn-ghost">SIAM-IMA</a>
-  <a href="/blog/misc" class="btn btn-ghost">Miscellaneous</a>
+  {% for link in site.data.blogtitles %}
+    <a href="{{ link.url }}" class="btn btn-ghost">{{ link.title }}</a>
+  {% endfor %}
 </center>
 
 <br/>
 
 <section class="post-list">
 
-  <h2 id="bridgend">Bridgend College</h2>
+  <h2>Bridgend College</h2>
   {% for post in site.posts %}
-    {% if post.category == "bridgend" %}
+    {% if post.category contains "bridgend" %}
       {% include article.html %}
     {% endif %}
   {% endfor %}
