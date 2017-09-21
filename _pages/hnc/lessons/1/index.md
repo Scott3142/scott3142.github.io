@@ -8,7 +8,17 @@ slideslink: https://docs.google.com/presentation/d/1xYadXg_tskYnWMLbuM9mcF7JaQKV
 
 resourcetitle: Lesson Resources
 resource1: |
-    <li>You can download the source code for my website (scott3142.com) here | <a href="https://github.com/Scott3142/Scott3142.github.io">Download code</a></li>
+    <li>You can download the source code for our sample website (gjlandscapemaintenance.co.uk) here | <a href="/assets/hnc/hnc-sample-site-lesson1.zip">Download code</a></li>
+    <br/>
+    <ul>
+      <li> -- Unzip the folder</li>
+      <br/>
+      <li> -- Open the file index.html in your browser.</li>
+      <br/>
+      <li> -- Also open it in a text editor.</li>
+      <br/>
+      <li> -- See if you can match up the parts with the site. Is anything unclear?</li>
+    </ul>
 resource2: |
   <li>Before continuing, make sure you have followed the instructions for creating a Github account from Lesson 0. | <a href="/hnc/lessons/0/index.html#github">Instructions</a></li>
   <br/>
@@ -69,6 +79,8 @@ quicklinks: |
 <h4>{{ page.resourcetitle }}:</h4>
 <ul style="list-style-type:disc;">
   {{ page.resource1 }}
+  <br/>
+  <center><p>- - - - - - - - - - - - - - - - - -</p></center>
   <br/>
   {{ page.resource2 }}
 </ul>
