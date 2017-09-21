@@ -12,16 +12,16 @@ lessons:
 links:
 
   - text: Assignments (Coming Soon) 
-    #url: /btec/assignment/
+    #url: /assets/btec/btec-assignment-1.pdf
     
   - text: Design Brief (Coming Soon) 
-    #url: /btec/designbrief/
+    #url: /assets/btec/design-brief.pdf
 
   - text: Full Course Specification
-    url: /btec/specs/fullspec.pdf
+    url: /assets/btec/fullspec.pdf
      
   - text: Unit Specification
-    url: /btec/specs/unitspec.pdf
+    url: /assets/btec/unitspec.pdf
     
   - text: Contact Me
     url: /contact/

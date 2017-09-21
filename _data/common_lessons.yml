@@ -87,7 +87,7 @@
     <li><em>If you are feeling motivated, you can download an example app and go ahead and look at some of the tutorials and instructions here:</em></li>
     <br/>
     <ul style="list-style-type:disc">
-      <li>Creating your first app | <a href="/btec/apps/lessons/1/"> Instructions</a> | <a href="/btec/appfiles/HelloWorld.aia">Download App Files</a></li>
+      <li>Creating your first app | <a href="/btec/lessons/1/"> Instructions</a> | <a href="/code/HelloWorld.aia">Download App Files</a></li>
       <li><a href="http://appinventor.mit.edu/explore/hour-of-code.html" target="_blank">MIT App Inventor Tutorials</a></li>
     </ul>
     
@@ -108,7 +108,7 @@
     <li>From now until the end of the class, you are free to play with Python and the Jupyter notebook and see what you can make it do. I have prepared an example notebook which gives an overview of some features.</li>
     <br/>
     <ul style="list-style-type:disc">
-      <li><a href="/btec/notebooks/intro.ipynb">Download example notebook</a></li>
+      <li><a href="/code/intro.ipynb">Download example notebook</a></li>
       <li>Save downloaded intro.ipynb in a folder of your choice.</li>
       <li>Open a jupyter notebook following the instructions above.</li>
       <li>Navigate to the file you just downloaded and open it.</li>

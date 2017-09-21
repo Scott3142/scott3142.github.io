@@ -12,10 +12,10 @@ lessons:
 links:
 
   - text: Assignments (Coming Soon) 
-    #url: /hnc/assignment/
+    #url: /assets/hnc/hnc-assignment-1.pdf
      
   - text: Unit Specification
-    url: /hnc/specs/unitspec.pdf
+    url: /assets/hnc/unitspec.pdf
     
   - text: Contact Me
     url: /contact/
