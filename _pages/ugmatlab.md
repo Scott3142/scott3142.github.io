@@ -1,6 +1,7 @@
 ---
 title: Introduction to Matlab
 layout: default
+permalink: /ugmatlab/
 
 hero: This page relates to the <em>Introduction to Matlab</em> course running at Cardiff School of Maths since 2016. Course notes and program files are currently available to download via the repository and will be updated as new material is added. Students are encouraged to download and edit the files as they see fit, but solutions should always be attempted first before peeking at the answers!
 

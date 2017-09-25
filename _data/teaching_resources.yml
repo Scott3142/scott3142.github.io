@@ -11,6 +11,12 @@ common:
 
 hnc:
 
+  - text: W3C Schools Tutorials
+    url: https://www.w3schools.com/
+
+  - text: Free Code Camp
+    url: https://www.freecodecamp.org/
+
   - text: Raspberry Pi Web Server
     url: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
 

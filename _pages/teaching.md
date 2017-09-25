@@ -13,10 +13,10 @@ hero: I have a passion for education and firmly believe that teaching is one of 
 
 <h4>Courses</h4>
 <ul>
-  <h5>Current</h5>
+  <h5>Current</h5><br/>
   <ul>
     {% for currentCourse in site.data.courses.current %}
-      <li>{{ currentCourse.title }} | <em>{{ currentCourse.institution }}</em> | <a href ="{{ currentCourse.url }}">Course Page</a></li><br/>
+      <li><center><a href ="{{ currentCourse.url }}" class="btn btn-ghost">{{ currentCourse.title }} | <em>{{ currentCourse.institution }}</em></a></center></li><br/>
     {% endfor %}
   </ul>
 
