@@ -1,17 +1,17 @@
 ---
 
-title: Lesson 2 - Content Management Systems
+title: Lesson 3 - Research
 layout: default
-permalink: /btec/lessons/2/
+permalink: /btec/lessons/3/
     
-slideslink: https://docs.google.com/presentation/d/1etWUYrbbAR0sxFlkUj3dzrkd5DdFFKghySGqmG2wDQ0/export/pdf
+slideslink: 
 
 resourcetitle: Lesson Resources
 resource: |
-  <li>Before downloading the app files, make sure you have followed the instructions for creating an MIT App Inventor App from Lesson 1. | <a href="/btec/lessons/1/">Instructions</a></li>
+  <li>The following files will help you with this class:</li>
   <br/>
   <ul>
-    <li>Here is the example app which displays the current date and time. Play around with the code and make sure you understand what does what. Remember Read-Search-Ask! | <a href="/code/DateAndTime.aia" target="_blank">Download Code</a></li>
+    <li>None yet!</li>
   </ul>
 
 quicklinks: |

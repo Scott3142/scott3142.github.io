@@ -6,8 +6,14 @@ lessons:
   - text: Lesson 1 - Basic Concepts
     url: /btec/lessons/1/
      
-  - text: Lesson 2 - Programming
+  - text: Lesson 2 - Content Management Systems
     url: /btec/lessons/2/
+
+  - text: Lesson 3 - Research
+    url: /btec/lessons/3/
+
+  - text: Lesson 4 - Design
+    url: /btec/lessons/4/
     
 links:
 

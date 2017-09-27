@@ -1,18 +1,13 @@
 ---
 
-title: Lesson 2 - Servers and Hosting
+title: Lesson 4 - Design
 layout: default
-permalink: /hnc/lessons/2/
+permalink: /hnc/lessons/4/
     
-slideslink: https://docs.google.com/presentation/d/1eKLDv6LsBv0Me3HaVnPnhBbizXLVVV5LCPh574bbLP8/export/pdf
+slideslink: 
 
 resourcetitle: Lesson Resources
-resource1: |
-  <li>The following files will help you with this class:</li>
-  <br/>
-  <ul>
-    <li>None yet!</li>
-  </ul>
+resource1: None yet!
   
 quicklinks: |
   <h4>Quick Links:</h4>
@@ -34,8 +29,10 @@ quicklinks: |
 {% endfor %}
 
 <h4>{{ page.resourcetitle }}:</h4>
-<ul>
+<ul style="list-style-type:disc;">
   {{ page.resource1 }}
+  <br/>
+  {{ page.resource2 }}
 </ul>
 <br/>
 

@@ -23,7 +23,7 @@ contact: The main point of contact for all questions relating to this course wil
 
 <h4>Resources &amp; Useful Links:</h4>
 <ul>
-  <li>Web Development Related:</li>
+  <li>App Development Related:</li>
   <ul>
     {% for resource in site.data.teaching_resources.btec %}
       <li><a href="{{ resource.url }}" target="_blank"><em>{{ resource.text }}</em></a></li>
