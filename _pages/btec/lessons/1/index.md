@@ -5,6 +5,7 @@ layout: default
 permalink: /btec/lessons/1/
     
 slideslink: https://docs.google.com/presentation/d/1dYJlTVp7HsP3RZLejXqrP4c_5B8Hg4P9u2QbhsYQnC0/export/pdf
+fileslink: /assets/btec/1.zip
 
 resourcetitle: Lesson Resources
 resource: |
@@ -42,7 +43,7 @@ quicklinks: |
   {% if block.common == 'yes' %}
   <h4 id="{{ block.idtag }}">{{ block.blockname }}:</h4>
   <ul>
-    {{ block.blocktext | replace: 'slidesurl', page.slideslink}}
+    {{ block.blocktext | replace: 'slidesurl', page.slideslink | replace: 'filesurl', page.fileslink }}
   </ul>
   <br/>
   {% endif %}

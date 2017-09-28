@@ -6,12 +6,14 @@ permalink: /hnc/lessons/2/
     
 slideslink: https://docs.google.com/presentation/d/1eKLDv6LsBv0Me3HaVnPnhBbizXLVVV5LCPh574bbLP8/export/pdf
 
+fileslink: /assets/hnc/2.zip
+
 resourcetitle: Lesson Resources
 resource1: |
   <li>The following files will help you with this class:</li>
   <br/>
   <ul>
-    <li>None yet!</li>
+    <li><li><center><a href="/assets/hnc/2/hnc-sample-site-lesson2.zip" target="_blank" class="btn btn-ghost">Download Sample Site</a></center></li></li>
   </ul>
   
 quicklinks: |
@@ -27,7 +29,7 @@ quicklinks: |
   {% if block.common == 'yes' %}
   <h4 id="{{ block.idtag }}">{{ block.blockname }}:</h4>
   <ul>
-    {{ block.blocktext | replace: 'slidesurl', page.slideslink}}
+    {{ block.blocktext | replace: 'slidesurl', page.slideslink | replace: 'filesurl', page.fileslink }}
   </ul>
   <br/>
   {% endif %}

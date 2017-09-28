@@ -5,6 +5,7 @@ layout: default
 permalink: /hnc/lessons/1/
     
 slideslink: https://docs.google.com/presentation/d/1xYadXg_tskYnWMLbuM9mcF7JaQKVGgBmVIpM2TWEMkE/export/pdf
+fileslink: /assets/hnc/1.zip
 
 resourcetitle: Lesson Resources
 resource1: |
@@ -70,7 +71,7 @@ quicklinks: |
   {% if block.common == 'yes' %}
   <h4 id="{{ block.idtag }}">{{ block.blockname }}:</h4>
   <ul>
-    {{ block.blocktext | replace: 'slidesurl', page.slideslink}}
+    {{ block.blocktext | replace: 'slidesurl', page.slideslink | replace: 'filesurl', page.fileslink }}
   </ul>
   <br/>
   {% endif %}

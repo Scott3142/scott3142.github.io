@@ -1,7 +1,7 @@
-- blockname: Slides
+- blockname: Download
   common: 'yes'
   blocktext: |
-    <li>You can download the class slides here. | <a href="slidesurl" target="_blank">PDF</a></li>
+    <li><center><a href="slidesurl" class="btn btn-ghost" target="_blank">Slides</a> | --------- | <a href="filesurl" class="btn btn-ghost" target="_blank">Files</a></center></li>
     
 - blockname: Creating a Google Account
   blocktext: |

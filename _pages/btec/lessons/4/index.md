@@ -4,12 +4,15 @@ title: Lesson 4 - Design
 layout: default
 permalink: /btec/lessons/4/
     
-slideslink:
+slideslink: 
 
 resourcetitle: Lesson Resources
 resource: |
-  <li>None yet!</li>
+  <li>The following files will help you with this class:</li>
   <br/>
+  <ul>
+    <li>None yet!</li>
+  </ul>
 
 quicklinks: |
   <h4>Quick Links:</h4>
