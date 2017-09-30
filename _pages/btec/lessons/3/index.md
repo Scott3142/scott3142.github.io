@@ -38,6 +38,7 @@ resource: |
     <br/>
     <h6>Content Management System:</h6>
     <li>Your app <em>must</em> make use of a CMS. Decide which one you are likely to use. Think about usability and ease of use for your client. The idea is for the client to <em>maintain the app themselves after you have developed it!!</em> Therefore, you should choose a CMS which is easy to use and has lots of features.</li>
+    <br/>
     <h6>Other Features:</h6>
     <li>Are there any other features your website will need which are not mentioned here? List them and discuss them in your document.</li>
     <br/>

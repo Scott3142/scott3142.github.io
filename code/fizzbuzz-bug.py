@@ -7,6 +7,8 @@ for i in range(1,20): #loop from 1 to 20
     print('Buzz')
   elif i%3 == 0 and i%5 == 0:
     print('FizzBuzz')
+  else:
+    print i
 
 #note: i%3 actually checks the remainder after division of 3 by i.
 #e.g. 10 divided by 4 = 2 remainder 2. So 10%4 = 2
