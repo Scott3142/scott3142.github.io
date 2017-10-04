@@ -9,6 +9,14 @@ common:
   - text: Codewars
     url: https://www.codecademy.com
 
+templates:
+    
+  - url: https://app.moqups.com/scott.morgan3142@gmail.com/3DCXzWsOoQ/view/page/aa9df7b72
+    text: <em>Moqup</em> Example
+    course: 
+      - hnc
+      - btec
+
 hnc:
 
   - text: W3C Schools Tutorials

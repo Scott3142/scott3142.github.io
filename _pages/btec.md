@@ -21,6 +21,16 @@ contact: The main point of contact for all questions relating to this course wil
 </ul> 
 <br/>
 
+<h4>Templates and Examples:</h4>
+<ul style="margin-top:3%;">
+  {% for template in site.data.teaching_resources.templates %}
+    {% if template.course contains "btec" %}
+      <center><a href="{{ template.url }}" class="btn btn-ghost" target="_blank">{{ template.text }}</a></center>
+    {% endif %}
+  {% endfor %}
+</ul>
+<br/>
+
 <h4>Resources &amp; Useful Links:</h4>
 <ul>
   <li>App Development Related:</li>
