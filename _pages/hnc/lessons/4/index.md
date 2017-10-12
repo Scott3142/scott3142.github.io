@@ -4,10 +4,10 @@ title: Lesson 4 - Design
 layout: default
 permalink: /hnc/lessons/4/
     
-slideslink: 
+slideslink: https://docs.google.com/presentation/d/1LCWWB9FX79qqqm7x3pWvcf6_ztxhB1kTRufbv89Ld1E/export/pdf
 
 resourcetitle: Lesson Resources
-resource1: None yet!
+resource1: None available.
   
 quicklinks: |
   <h4>Quick Links:</h4>
