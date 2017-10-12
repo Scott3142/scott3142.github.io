@@ -7,7 +7,7 @@ permalink: /hnc/lessons/4/
 slideslink: https://docs.google.com/presentation/d/1LCWWB9FX79qqqm7x3pWvcf6_ztxhB1kTRufbv89Ld1E/export/pdf
 
 resourcetitle: Lesson Resources
-resource1: <center><a href="{{ https://app.moqups.com/scott.morgan3142@gmail.com/3DCXzWsOoQ/view/page/aa9df7b72 }}" class="btn btn-ghost" target="_blank"><em>Moqup</em> Example</a></center>
+resource1: <center><a href="https://app.moqups.com/scott.morgan3142@gmail.com/3DCXzWsOoQ/view/page/aa9df7b72" class="btn btn-ghost" target="_blank"><em>Moqup</em> Example</a></center>
   
 quicklinks: |
   <h4>Quick Links:</h4>
