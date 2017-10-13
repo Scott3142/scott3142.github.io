@@ -12,7 +12,7 @@ resource: <center><a href="https://app.moqups.com/scott.morgan3142@gmail.com/3DC
 quicklinks: |
   <h4>Quick Links:</h4>
   <ul>
-    <li>BTEC Technicals | <a href="/btec/">Homepage</a> | <a href="/btec/lessons/0/">Lesson 0 - Introduction</a></li>
+    <li>BTEC Firsts | <a href="/btec/">Homepage</a> | <a href="/btec/lessons/0/">Lesson 0 - Introduction</a></li>
     <li><a href="/contact">Contact Me</a></li>
   </ul> 
 
