@@ -17,6 +17,11 @@ templates:
       - hnc
       - btec
 
+  - url: /code/RSA.ipynb
+    text: RSA Encryption
+    course: 
+      - hnc
+
 hnc:
 
   - text: W3C Schools Tutorials
