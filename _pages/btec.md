@@ -1,13 +1,13 @@
 ---
 title: BTEC Technicals
-coursename: Digital Applications Development
+coursename: Mobile Apps Development
 layout: default
 year: 2017/2018
 permalink: /btec/index.html
 
-hero: This page relates to the <em>BTEC Technicals</em> course <em>Digital Applications Development</em> running at Bridgend College during the academic year 2017/2018. Course notes and program files will be available to download here and will be updated as new material is added. Comments and questions welcome at any time.
+hero: This page relates to the <em>BTEC Firsts</em> course <em>Mobile Apps Development</em> running at Bridgend College during the academic year 2017/2018. Course notes and program files will be available to download here and will be updated as new material is added. Comments and questions welcome at any time. <em>N.B. The first 4 lessons relate to a former course - BTEC Technicals Level 2: Digital Applications Development</em>.
 
-contact: The main point of contact for all questions relating to this course will be <a href="/contact" target="_blank">Scott Morgan</a> (<a href="mailto:MorganSN@cardiff.ac.uk" target="_blank">MorganSN@cardiff.ac.uk</a>). Support will be provided via e-mail or during class.
+contact: The main point of contact for all questions relating to this course will be <a href="/contact" target="_blank">Scott Morgan</a> (<a href="mailto:smorgan@bridgend.ac.uk" target="_blank">smorgan@bridgend.ac.uk</a>). Support will be provided via e-mail or during class.
 ---
 
 <p>{{ page.hero }}</p>
