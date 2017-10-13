@@ -7,7 +7,7 @@ permalink: /hnc/index.html
 
 hero: This page relates to the <em>BTEC Higher Nationals</em> course <em>Website Design &amp; Development</em> course running at Bridgend College during the academic year 2017/2018. Course notes and program files will be available to download here and will be updated as new material is added. Comments and questions welcome at any time.
 
-contact: The main point of contact for all questions relating to this course will be <a href="/contact" target="_blank">Scott Morgan</a> (<a href="mailto:MorganSN@cardiff.ac.uk" target="_blank">MorganSN@cardiff.ac.uk</a>). Support will be provided via e-mail or during class.
+contact: The main point of contact for all questions relating to this course will be <a href="/contact" target="_blank">Scott Morgan</a> (<a href="mailto:smorgan@bridgend.ac.uk" target="_blank">smorgan@bridgend.ac.uk</a>). Support will be provided via e-mail or during class.
 ---
 
 <p>{{ page.hero }}</p>
@@ -21,26 +21,24 @@ contact: The main point of contact for all questions relating to this course wil
 </ul> 
 <br/>
 
-<h4>Templates and Examples:</h4>
-<ul style="margin-top:3%;">
-  {% for template in site.data.teaching_resources.templates %}
-    {% if template.course contains "hnc" %}
-      <center><a href="{{ template.url }}" class="btn btn-ghost" target="_blank">{{ template.text }}</a></center>
-    {% endif %}
-  {% endfor %}
-</ul>
-<br/>
-
 <h4>Resources &amp; Useful Links:</h4>
 <ul>
-  <li>Web Development Related:</li>
+  <h5>Templates and Examples:</h5>
+  <ul style="margin-bottom:5%;">
+    {% for template in site.data.teaching_resources.templates %}
+    {% if template.course contains "hnc" %}
+      <center><a href="{{ template.url }}" class="btn btn-ghost" target="_blank" style="margin-top:3%;">{{ template.text }}</a></center>
+    {% endif %}
+  {% endfor %}
+  </ul>
+  <h5>Web Development Related:</h5>
   <ul>
     {% for resource in site.data.teaching_resources.hnc %}
       <li><a href="{{ resource.url }}" target="_blank"><em>{{ resource.text }}</em></a></li>
     {% endfor %}
   </ul>
   <br/>
-  <li>General:</li>
+  <h5>General:</h5>
   <ul>
     {% for resource in site.data.teaching_resources.common %}
       <li><a href="{{ resource.url }}" target="_blank"><em>{{ resource.text }}</em></a></li>

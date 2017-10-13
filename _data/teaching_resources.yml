@@ -17,7 +17,12 @@ templates:
       - hnc
       - btec
 
-  - url: /code/RSA.ipynb
+  - url: /hnc/cocalc.html
+    text: CoCalc
+    course: 
+      - hnc
+
+  - url: /hnc/rsa.html
     text: RSA Encryption
     course: 
       - hnc
