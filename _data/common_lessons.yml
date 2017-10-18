@@ -1,9 +1,11 @@
 - blockname: Download
   common: 'yes'
+  softwareshow: 'no'
   blocktext: |
     <li><center><a href="slidesurl" class="btn btn-ghost" target="_blank">Slides</a> | --------- | <a href="filesurl" class="btn btn-ghost" target="_blank">Files</a></center></li>
     
 - blockname: Creating a Google Account
+  softwareshow: 'no'
   blocktext: |
     <li>You will need a <em>Google account</em> to access many parts of this course. If you do not already have a Google account, create one now. | <a href="https://accounts.google.com/SignUp?hl=en" target = "_blank">Create Google account</a></li>
     
@@ -23,22 +25,13 @@
 - blockname: Installing Python
   idtag: jupyter
   blocktext: |
-    <li>We will use Anaconda to run our Python files, which comes packaged with a variety of other useful tools (including the notebooks I mentioned above).</li>
+    <li>We will use CoCalc to run our Python files, which comes packaged with a variety of other useful tools (including the notebooks I mentioned above).</li>
     <br/>
-    <li>To install it on your personal machine follow these steps:</li>
+    <li>To run it on your personal machine follow the instructions below:</li>
     <br/>
-    <ul style="list-style-type:disc">
-      <li>Go to this webpage: <a href="http://www.continuum.io/downloads" target="_blank">continuum.io/downloads</a>.</li>
-      <li>Identify and download the version of Python 3 for Windows. If you do this on your home computer which isn't Windows, download the appropriate version at this stage.</li>
-      <li>Run the installer.</li>
-    </ul>
+    <center><a href="/hnc/cocalc.html" class="btn btn-ghost">CoCalc Instructions</a></center>
     <br/>
-    
-    <li>We will use a <em>Jupyter</em> notebook which runs in your browser. To open a local notebook server, find the Continuum navigator and click on Jupyter. You do not need to be connected to the internet to use this.</li>
-    <br/>
-    <li><a href="https://youtu.be/Zk0RhwCiiNA" target="_blank">Click here for Dr. Vince Knight's video of how to open and use a notebook.</a></li>
-    <br/>
-    <li>Try the following:</li>
+    <li>Once you have followed the instructions and opened a Jupyter notebook, try the following:</li>
     <br/>
     <div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span><span class="p">(</span><span class="s">"Hello world"</span><span class="p">)</span>
     <span class="n">Hello</span> <span class="n">world</span>
@@ -49,6 +42,7 @@
     
 - blockname: Creating an Account on Github
   idtag: github
+  softwareshow: 'no'
   blocktext: |
     <li><em>Github</em> is a place online where you can store your codes for other people to read and download. Throughout this course we will make use of Github, both for downloading course materials and finding existing code to play with. Everyone enrolled is encouraged to create an account on Github and upload your files. Collaboration in the field of Computer Science is extremely important, and the more widely available our codes are the more this field will advance!</li>
     <br/>
@@ -63,6 +57,7 @@
     <li><em>Feel free to have a browse around the pages on Github. Read the guide, start a project. Generally get a feel for it.</em></li>
     
 - blockname: Initial Diagnostic Task
+  softwareshow: 'no'
   blocktext: |
     <li>In order for me to get a sense how each of you feel about this course from the outset, I have prepared a short series of questions which are available below. Please answer these as honestly as you can, and don't worry if you can't answer them! <br/><br/>
     NB: You will need a Google account to complete this form.</li>
@@ -74,6 +69,7 @@
 - blockname: Installing MIT App Inventor Emulator
   idtag: android
   hncshow: 'no'
+  softwareshow: 'no'
   blocktext: |
     <li>We will be running our apps on an <em>emulator</em>, which mimics a mobile device on your computer. To do this, we will need to download and install <em>MIT App Inventor Companion</em>.</li>
     <br/>

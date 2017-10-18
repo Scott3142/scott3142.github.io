@@ -1,8 +1,3 @@
-slides:
-
-  - text: Lesson 1 - Slides
-    url: https://docs.google.com/presentation/d/1i-ZzW8LmtvLeypCBt8LKhkaY-9BqkC6tyY9-PVuIttw/export/pdf
-
 resources:
 
   - text: CoCalc Course Page
@@ -13,6 +8,14 @@ resources:
 
   - text: Design Brief
     url: /assets/software/brief.pdf
+
+  - text: Intro to Python
+    url: /software/pyintro.html
+
+slides:
+
+  - text: Lesson 1 - Slides
+    url: https://docs.google.com/presentation/d/1i-ZzW8LmtvLeypCBt8LKhkaY-9BqkC6tyY9-PVuIttw/export/pdf
 
 links:
 
