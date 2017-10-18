@@ -1,8 +1,8 @@
 current:
 
-- title: Mobile Apps Development
+- title: BTEC First Diploma - Level 2
   institution: Bridgend College
-  url: /btec/
+  url: /software/
 
 - title: Website Design &amp; Development
   institution: Bridgend College
@@ -17,6 +17,10 @@ current:
   url: http://vknight.org/cfm
 
 previous:
+
+- title: Digital Applications Development
+  institution: Bridgend College
+  url: /apps/
 
 - title: BTEC Computing Level 3 - Project
   institution: Bridgend College

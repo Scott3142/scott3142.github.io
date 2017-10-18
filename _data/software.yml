@@ -1,0 +1,33 @@
+slides:
+
+  - text: Lesson 1 - Slides
+    url: http://google.com
+
+resources:
+
+  - text: CoCalc
+    url: https://cocalc.com/
+
+links:
+
+  - text: Assignments (Coming Soon) 
+    #url: /assets/software/software-assignment-1.pdf
+    
+  - text: Design Brief (Coming Soon) 
+    #url: /assets/software/design-brief.pdf
+
+  - text: Full Course Specification
+    url: /assets/software/fullspec.pdf
+
+timetable:
+  
+  - group: A
+    day: Fridays
+    time: 09:00 - 10:20
+    location: J/0.08
+    
+  - group: B
+    day: Fridays
+    time: 10:30 - 12:50
+    location: J/0.08
+

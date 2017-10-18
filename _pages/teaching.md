@@ -23,7 +23,7 @@ hero: I have a passion for education and firmly believe that teaching is one of 
   <h5>Previous</h5>
   <ul>
     {% for previousCourse in site.data.courses.previous %}
-      <li>{{ previousCourse.title }} | <em>{{ previousCourse.institution }}</em></li>
+      <li>{{ previousCourse.title }} | <em>{{ previousCourse.institution }}</em> {% if previousCourse.url contains "/apps/" %} | <a href="/apps/"><em>Course Page</em></a>{% endif %}</li>
     {% endfor %}
   </ul>
 </ul>

@@ -9,24 +9,6 @@ common:
   - text: Codewars
     url: https://www.codecademy.com
 
-templates:
-    
-  - url: https://app.moqups.com/scott.morgan3142@gmail.com/3DCXzWsOoQ/view/page/aa9df7b72
-    text: <em>Moqup</em> Example
-    course: 
-      - hnc
-      - btec
-
-  - url: /hnc/cocalc.html
-    text: CoCalc
-    course: 
-      - hnc
-
-  - url: /hnc/rsa.html
-    text: RSA Encryption
-    course: 
-      - hnc
-
 hnc:
 
   - text: W3C Schools Tutorials
@@ -40,8 +22,13 @@ hnc:
 
   - text: Raspberry Pi Wordpress Server
     url: https://www.raspberrypi.org/learning/lamp-web-server-with-wordpress/worksheet/
+
+software:
+
+  - text: PiCymru <em>webbot</em> Code
+  - url: https://github.com/picymru/webbot
   
-btec:
+apps:
 
   - text: MIT App Inventor Resources
     url: http://appinventor.mit.edu/explore/
@@ -58,3 +45,23 @@ btec:
   - text: Samsung App Development Resources
     url: http://www.scholastic.com/samsungacademy/teachers.aspx
   
+templates:
+    
+  - url: https://app.moqups.com/scott.morgan3142@gmail.com/3DCXzWsOoQ/view/page/aa9df7b72
+    text: <em>Moqup</em> Example
+    course: 
+      - hnc
+      - apps
+
+  - url: /hnc/cocalc.html
+    text: CoCalc
+    course: 
+      - hnc
+      - software
+
+  - url: /hnc/rsa.html
+    text: RSA Encryption
+    course: 
+      - hnc
+      - thinking
+
