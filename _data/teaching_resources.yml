@@ -26,7 +26,7 @@ hnc:
 software:
 
   - text: PiCymru <em>webbot</em> Code
-  - url: https://github.com/picymru/webbot
+    url: https://github.com/picymru/webbot
   
 apps:
 
@@ -57,11 +57,9 @@ templates:
     text: CoCalc
     course: 
       - hnc
-      - software
 
   - url: /hnc/rsa.html
     text: RSA Encryption
     course: 
       - hnc
-      - thinking
 
