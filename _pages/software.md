@@ -3,7 +3,7 @@ title: BTEC First Diploma - Level 2
 coursename: Software Systems Development
 layout: default
 year: 2017/2018
-permalink: /software
+permalink: /software/
 
 hero: |
   This page relates to the <em>BTEC First Diploma</em> courses <em>Software Systems Development</em> and <em>Computational Thinking</em> running at Bridgend College during the academic year 2017/2018. Course notes and program files will be available to download here and will be updated as new material is added. Comments and questions welcome at any time.

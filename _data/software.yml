@@ -5,19 +5,22 @@ slides:
 
 resources:
 
-  - text: CoCalc
-    url: https://cocalc.com/
+  - text: CoCalc Course Page
+    url: https://cocalc.com/projects/caa8c01c-2577-4cad-b1f9-098485507031
+
+  - text: Project Plan Template
+    url: https://docs.google.com/spreadsheets/d/1aHfDIXQs_pogTd3vOh6b18-kLon-sQn5_7TkRNvG4YI/edit?usp=sharing
 
 links:
 
+  - text: Design Brief
+    url: /assets/software/brief.pdf
+
+  - text: Course Specification
+    url: /assets/software/fullspec.pdf
+
   - text: Assignments (Coming Soon) 
     #url: /assets/software/software-assignment-1.pdf
-    
-  - text: Design Brief (Coming Soon) 
-    #url: /assets/software/design-brief.pdf
-
-  - text: Full Course Specification
-    url: /assets/software/fullspec.pdf
 
 timetable:
   
