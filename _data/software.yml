@@ -11,10 +11,10 @@ resources:
   - text: Project Plan Template
     url: https://docs.google.com/spreadsheets/d/1aHfDIXQs_pogTd3vOh6b18-kLon-sQn5_7TkRNvG4YI/edit?usp=sharing
 
-links:
-
   - text: Design Brief
     url: /assets/software/brief.pdf
+
+links:
 
   - text: Course Specification
     url: /assets/software/fullspec.pdf
