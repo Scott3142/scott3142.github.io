@@ -1,12 +1,12 @@
 ---
 title: BTEC First Diploma - Level 2
-coursename: Software Systems Development
+coursename: Automated Computer Systems
 layout: default
 year: 2017/2018
 permalink: /software/
 
 hero: |
-  This page relates to the <em>BTEC First Diploma</em> courses <em>Software Systems Development</em> and <em>Computational Thinking</em> running at Bridgend College during the academic year 2017/2018. Course notes and program files will be available to download here and will be updated as new material is added. Comments and questions welcome at any time.
+  This page relates to the <em>BTEC First Diploma</em> course <em>Automated Computer Systems</em> running at Bridgend College during the academic year 2017/2018. Course notes and program files will be available to download here and will be updated as new material is added. Comments and questions welcome at any time.
 
 contact: The main point of contact for all questions relating to this course will be <a href="/contact" target="_blank">Scott Morgan</a> (<a href="mailto:smorgan@bridgend.ac.uk" target="_blank">smorgan@bridgend.ac.uk</a>). Support will be provided via e-mail or during class.
 ---
