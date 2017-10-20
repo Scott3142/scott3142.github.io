@@ -5,14 +5,14 @@ layout: default
 permalink: /hnc/lessons/3/
     
 slideslink: https://docs.google.com/presentation/d/1UPt0cRnm5NshuwtLi9AeEEDXJG912MFtGygqC8piVAg/export/pdf
-fileslink: /assets/hnc/3.zip
+fileslink: https://docs.google.com/document/d/15C5Dno3KuHrt2uTKyiQkNXqn-7BY6vkMkJHeOadQPR8/export?format=pdf
 
 resourcetitle: Lesson Resources
 resource: |
   <li>The following files will help you with this class:</li>
   <br/>
   <ul>
-    <li><center><a href="/assets/hnc/3/3.docx" target="_blank" class="btn btn-ghost">Download Documents</a></center></li>
+    <li><center><a href="https://docs.google.com/document/d/15C5Dno3KuHrt2uTKyiQkNXqn-7BY6vkMkJHeOadQPR8/export?format=pdf" target="_blank" class="btn btn-ghost">Download Documents</a></center></li>
   </ul>
   <br/>
   <li>This class is centered around <em>research</em>. Your assignment will be set next week, and will be based around explaining to a group of junior software engineers the features and functions of a website. Start to think about what you will tell them. Below is a list of a few things to consider:</li>
