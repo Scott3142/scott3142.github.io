@@ -7,7 +7,7 @@ permalink: /hnc/lessons/5/
 slideslink: https://docs.google.com/presentation/d/18to-5XWerZrS5yIetzFZrXl7BaVSudATinlDSZptKdc/export/pdf
 
 resourcetitle: Lesson Resources
-resource1: None available. The slides are available to download above. 
+resource1: <a href="https://moz.com/beginners-guide-to-seo" target="_blank" class="btn btn-ghost">Beginners' Guide to SEO</a>
   
 quicklinks: |
   <h4>Quick Links:</h4>
