@@ -7,7 +7,8 @@ permalink: /hnc/lessons/5/
 slideslink: https://docs.google.com/presentation/d/18to-5XWerZrS5yIetzFZrXl7BaVSudATinlDSZptKdc/export/pdf
 
 resourcetitle: Lesson Resources
-resource1: <center><a href="https://moz.com/beginners-guide-to-seo" target="_blank" class="btn btn-ghost">Beginners' Guide to SEO</a></center>
+resource1: <center><a href="https://moz.com/beginners-guide-to-seo" target="_blank" class="btn btn-ghost">Beginners' Guide to SEO (site)</a></center>
+resource2: <center><a href="/assets/hnc/5/SEO.pdf" target="_blank" class="btn btn-ghost">Download Beginners' Guide to SEO (pdf)</a></center>
   
 quicklinks: |
   <h4>Quick Links:</h4>
