@@ -40,7 +40,7 @@ contact: The main point of contact for all questions relating to this course wil
 
 <h4>Useful Links:</h4>
 <ul>
-  <li>Software Systems Related:</li>
+  <li>Automated Systems Related:</li>
   <ul>
     {% for resource in site.data.teaching_resources.software %}
       <li><a href="{{ resource.url }}" target="_blank"><em>{{ resource.text }}</em></a></li>
