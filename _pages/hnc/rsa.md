@@ -11,7 +11,7 @@ resource1: |
   You can read about RSA encryption here: <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank">Wikipedia - RSA Encryption</a>
 
 resourcetitle2: Files
-resource2: <center><a href="/code/rsa.ipynb" class="btn btn-ghost" target="_blank">RSA Encryption Notebook</a></center>
+resource2: <center><a href="/code/RSA.ipynb" class="btn btn-ghost" target="_blank">RSA Encryption Notebook</a></center>
 
 ---
 
