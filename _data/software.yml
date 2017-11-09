@@ -1,9 +1,12 @@
 resources:
 
+  - text: Plan Template
+    url: https://docs.google.com/document/d/1u-MqhqiWnBo1gAmlUiwXpUY7bnGTjfpE4Dhbw3noUg4/edit?usp=sharing
+
   - text: CoCalc Course Page
     url: https://cocalc.com/projects/caa8c01c-2577-4cad-b1f9-098485507031
 
-  - text: Project Plan Template
+  - text: Project Timeline
     url: https://docs.google.com/spreadsheets/d/1aHfDIXQs_pogTd3vOh6b18-kLon-sQn5_7TkRNvG4YI/edit?usp=sharing
 
   - text: Design Brief
