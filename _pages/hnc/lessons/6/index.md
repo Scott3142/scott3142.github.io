@@ -8,7 +8,7 @@ slideslink: https://docs.google.com/presentation/d/1mZ7Yny-_FtMS0-SWk2-jfkSWaHNH
 fileslink: https://docs.google.com/document/d/15C5Dno3KuHrt2uTKyiQkNXqn-7BY6vkMkJHeOadQPR8/edit?usp=sharing
 
 resourcetitle: Lesson Resources
-resource1: <center><a href="https://docs.google.com/document/d/197Gae0uZTyUY6bkJjZh0LsGjUoCA5AIKHUPEoCyBnAA/edit?usp=sharing" target="_blank" class="btn btn-ghost">Assignment 1</a></center>
+resource1: <center><a href="https://docs.google.com/document/d/197Gae0uZTyUY6bkJjZh0LsGjUoCA5AIKHUPEoCyBnAA/export?format=pdf" target="_blank" class="btn btn-ghost">Assignment 1</a></center>
 resource2: <center><a href="https://docs.google.com/document/d/15C5Dno3KuHrt2uTKyiQkNXqn-7BY6vkMkJHeOadQPR8/edit?usp=sharing" target="_blank" class="btn btn-ghost">Hints & Tips</a></center>
   
 quicklinks: |
