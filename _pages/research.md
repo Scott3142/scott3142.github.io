@@ -61,6 +61,13 @@ hero: My research is based primarily in fluid dynamics and in particular hydrody
     {% endfor %}
   </ul>
   <br/>
+  <li>Invited Talk:</li>
+    <ul>
+    {% for talkConference in site.data.conferences.invitedTalk %}
+      <li>{{ talkConference.title }} | <em> {{ talkConference.institution }} ({{ talkConference.year }})</em> {{ talkConference.extra }}</li>
+    {% endfor %}
+  </ul>
+  <br/>
   <li>Contributed Talk:</li>
     <ul>
     {% for talkConference in site.data.conferences.contributedTalk %}

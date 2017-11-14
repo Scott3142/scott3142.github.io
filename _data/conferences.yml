@@ -10,6 +10,12 @@ hosted:
     year: 2016
     extra: ' | <a href="https://siamukie.wordpress.com/2016/05/30/5th-national-sc-conference/" target="_blank">Blog</a>'
     
+invitedTalk:
+
+  - title: Department of Engineering Seminar Series
+    institution: Leicester University
+    year: 2017
+    
 contributedTalk:
 
   - title: Meeting of UKFN SIG on Complex Boundary Layers & Rotating Flows
