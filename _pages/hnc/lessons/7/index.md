@@ -25,7 +25,7 @@ quicklinks: |
   {% if block.common == 'yes' %}
   <h4 id="{{ block.idtag }}">{{ block.blockname }}:</h4>
   <ul>
-    {{ block.blocktext | replace: 'slidesurl', page.slideslink}}
+    {{ block.blocktext | replace: 'slidesurl', page.slideslink | replace: 'filesurl', page.fileslink}}
   </ul>
   <br/>
   {% endif %}
