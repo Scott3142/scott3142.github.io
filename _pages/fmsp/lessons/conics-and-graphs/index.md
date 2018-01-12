@@ -9,8 +9,15 @@ fileslink:
 
 resourcetitle: Lesson Resources
 hero: Below are some useful resources which will help you for this session.<br/>
-resource1: <center><a href="/assets/fmsp/fmsp-resources.zip" target="_blank" class="btn btn-ghost">FMSP Resources (from previous years)</a></center>
-resource2:
+resource1: <center><a href="/assets/fmsp/tex/graph-sketch-qus.pdf" target="_blank" class="btn btn-ghost">Practice Questions</a></center><!--<br/><center><a href="/assets/fmsp/tex/graph-sketch-qus.pdf" target="_blank" class="btn btn-ghost">Practice Solutions</a></center>-->
+resource2: <center><a href="/assets/fmsp/tex/examples/questions/graph-sketch-extra.pdf" target="_blank" class="btn btn-ghost">Exam Questions</a></center>
+resource3: <center><a href="/assets/fmsp/tex/graph-sketch-presentation.pdf" target="_blank" class="btn btn-ghost">Presentation</a></center>
+
+resource4: <center><a href="/assets/fmsp/tex/examples/questions/conics-questions.pdf" target="_blank" class="btn btn-ghost">Practice Questions</a></center>
+resource5: <center><a href="/assets/fmsp/tex/examples/questions/conics-extra.pdf" target="_blank" class="btn btn-ghost">Exam Questions</a></center>
+resource6: <center><a href="/assets/fmsp/tex/conics-presentation.pdf" target="_blank" class="btn btn-ghost">Presentation</a></center>
+
+resource7: <center><a href="/assets/fmsp/fmsp-resources.zip" target="_blank" class="btn btn-ghost">FMSP Resources (from previous years)</a></center>
 
 quicklinks: |
   <h4>Quick Links:</h4>
@@ -25,9 +32,25 @@ quicklinks: |
 <ul style="list-style-type:disc;">
   {{ page.hero }}
   <br/>
+  <h5>Graph Sketching:</h5>
+  <br/>
   {{ page.resource1 }}
   <br/>
   {{ page.resource2 }}
+  <br/>
+  {{ page.resource3 }}
+  <br/>
+  <h5>Conic Sections:</h5>
+  <br/>
+  {{ page.resource4 }}
+  <br/>
+  {{ page.resource5 }}
+  <br/>
+  {{ page.resource6 }}
+  <br/>
+  <h5>General</h5>
+  <br/>
+  {{ page.resource7 }}
 </ul>
 <br/>
 

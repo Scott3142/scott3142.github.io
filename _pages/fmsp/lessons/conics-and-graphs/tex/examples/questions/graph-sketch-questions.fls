@@ -1,7 +1,0 @@
-PWD /home/scott/Dropbox/site/_pages/fmsp/lessons/conics-and-graphs/tex/examples/questions
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/scott/Dropbox/site/_pages/fmsp/lessons/conics-and-graphs/tex/examples/questions/graph-sketch-questions.tex
-OUTPUT /home/scott/Dropbox/site/_pages/fmsp/lessons/conics-and-graphs/tex/examples/questions/graph-sketch-questions.log
