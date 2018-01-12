@@ -5,9 +5,26 @@ common:
 
   - text: Codecademy
     url: https://www.codecademy.com
-    
+
   - text: Codewars
     url: https://www.codecademy.com
+
+fmsp:
+
+  - text: The Further Mathematics Support Programme
+    url: http://furthermaths.org.uk/
+
+  - text: Wolfram Alpha
+    url: https://www.wolframalpha.com/
+
+  - text: STEP Preparation Support
+    url: https://www.maths.cam.ac.uk/step-preparation-support-widening-participation
+
+  - text: Khan Academy
+    url: https://www.khanacademy.org/math
+
+  - text: WJEC A-Level Maths
+    url: http://www.wjec.co.uk/qualifications/mathematics/mathematics-gce-a-as/
 
 hnc:
 
@@ -27,7 +44,7 @@ software:
 
   - text: PiCymru <em>webbot</em> Code
     url: https://github.com/picymru/webbot
-  
+
 apps:
 
   - text: MIT App Inventor Resources
@@ -35,31 +52,30 @@ apps:
 
   - text: appinventor.org
     url: http://www.appinventor.org/
-    
+
   - text: Android Studio
     url: https://developer.android.com/training/index.html
-    
+
   - text: Udacity App Development Course
     url: https://www.udacity.com/course/new-android-fundamentals--ud851
-    
+
   - text: Samsung App Development Resources
     url: http://www.scholastic.com/samsungacademy/teachers.aspx
-  
+
 templates:
-    
+
   - url: https://app.moqups.com/scott.morgan3142@gmail.com/3DCXzWsOoQ/view/page/aa9df7b72
     text: <em>Moqup</em> Example
-    course: 
+    course:
       - hnc
       - apps
 
   - url: /hnc/cocalc.html
     text: CoCalc
-    course: 
+    course:
       - hnc
 
   - url: /hnc/rsa.html
     text: RSA Encryption
-    course: 
+    course:
       - hnc
-
