@@ -9,6 +9,8 @@
 *.snm
 *.synctex.gz
 *.toc
+*.fls
+*.fdb_latexmk
 
 #personal files
 _site
