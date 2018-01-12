@@ -5,7 +5,7 @@ layout: default
 permalink: /hnc/lessons/8/
     
 slideslink: https://docs.google.com/presentation/d/1tiLlsGUOpITnvU9s9YzZD0xJofumewUYxUBj4pQD9zo/export/pdf
-fileslink: https://docs.google.com/presentation/d/1tiLlsGUOpITnvU9s9YzZD0xJofumewUYxUBj4pQD9zo/export/pdf
+fileslink: /assets/hnc/8/first-site.zip 
 
 resourcetitle: Lesson Resources
 hero: Below are some useful links for startying off with HTML and CSS. I <em>strongly</em> recommend working through the W3C tutorials, as they are some of the best around.<br/>
