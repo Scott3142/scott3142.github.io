@@ -19,6 +19,7 @@ resource6: <center><a href="/assets/fmsp/tex/conics-presentation.pdf" target="_b
 
 resource7: <center><a href="/assets/fmsp/fmsp-resources.zip" target="_blank" class="btn btn-ghost">FMSP Resources (from previous years)</a></center>
 resource8: <center><a href="/assets/fmsp/src.zip" target="_blank" class="btn btn-ghost">Python Files for Graphs</a></center>
+resource9: <center><a href="/assets/fmsp/projectile-motion.zip" target="_blank" class="btn btn-ghost">Projectile Motion MATLAB Files</a></center>
 
 quicklinks: |
   <h4>Quick Links:</h4>
@@ -54,6 +55,8 @@ quicklinks: |
   {{ page.resource7 }}
   <br/>
   {{ page.resource8 }}
+  <br/>
+  {{ page.resource9 }}
 </ul>
 <br/>
 
