@@ -18,6 +18,7 @@ resource5: <center><a href="/assets/fmsp/tex/examples/questions/conics-extra.pdf
 resource6: <center><a href="/assets/fmsp/tex/conics-presentation.pdf" target="_blank" class="btn btn-ghost">Presentation</a></center>
 
 resource7: <center><a href="/assets/fmsp/fmsp-resources.zip" target="_blank" class="btn btn-ghost">FMSP Resources (from previous years)</a></center>
+resource8: <center><a href="/assets/fmsp/src.zip" target="_blank" class="btn btn-ghost">Python Files for Graphs</a></center>
 
 quicklinks: |
   <h4>Quick Links:</h4>
@@ -48,9 +49,11 @@ quicklinks: |
   <br/>
   {{ page.resource6 }}
   <br/>
-  <h5>General</h5>
+  <h5>General:</h5>
   <br/>
   {{ page.resource7 }}
+  <br/>
+  {{ page.resource8 }}
 </ul>
 <br/>
 
