@@ -9,7 +9,7 @@ fileslink:
 
 resourcetitle: Lesson Resources
 hero: Below are some useful resources which will help you for this session.<br/>
-resource1: <center><a href="/assets/fmsp/tex/graph-sketch-qus.pdf" target="_blank" class="btn btn-ghost">Practice Questions</a></center><br/><center><a href="/assets/fmsp/tex/graph-sketch-qus.pdf" target="_blank" class="btn btn-ghost">Practice Solutions</a></center>
+resource1: <center><a href="/assets/fmsp/tex/graph-sketch-qus.pdf" target="_blank" class="btn btn-ghost">Practice Questions</a></center><br/><center><a href="/assets/fmsp/tex/graph-sketch-sols.pdf" target="_blank" class="btn btn-ghost">Practice Solutions</a></center>
 resource2: <center><a href="/assets/fmsp/tex/examples/questions/graph-sketch-extra.pdf" target="_blank" class="btn btn-ghost">Exam Questions</a></center>
 resource3: <center><a href="/assets/fmsp/tex/graph-sketch-presentation.pdf" target="_blank" class="btn btn-ghost">Presentation</a></center>
 
