@@ -1,6 +1,6 @@
 ---
 
-title: Conic Sections and Graphing Functions
+title: FP2 - Conic Sections and Graphing Functions
 layout: default
 permalink: /fmsp/lessons/conics-and-graphs/index.html
 
@@ -17,7 +17,7 @@ resource4: <center><a href="/assets/fmsp/tex/examples/questions/conics-questions
 resource5: <center><a href="/assets/fmsp/tex/examples/questions/conics-extra.pdf" target="_blank" class="btn btn-ghost">Exam Questions</a></center>
 resource6: <center><a href="/assets/fmsp/tex/conics-presentation.pdf" target="_blank" class="btn btn-ghost">Presentation</a></center>
 
-resource7: <center><a href="/assets/fmsp/fmsp-resources.zip" target="_blank" class="btn btn-ghost">FMSP Resources (from previous years)</a></center>
+resource7: <center><a href="/assets/fmsp/conics-and-graphs.zip" target="_blank" class="btn btn-ghost">FMSP Resources (from previous years)</a></center>
 resource8: <center><a href="/assets/fmsp/src.zip" target="_blank" class="btn btn-ghost">Python Files for Graphs</a></center>
 resource9: <center><a href="/assets/fmsp/projectile-motion.zip" target="_blank" class="btn btn-ghost">Projectile Motion MATLAB Files</a></center>
 
