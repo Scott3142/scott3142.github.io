@@ -29,7 +29,6 @@ quicklinks: |
 ---
 
 <h4>{{ page.resourcetitle }}:</h4>
-<ul style="list-style-type:disc;">
   {{ page.hero }}
   <br/>
   <h5>Trig, Sets &amp; Functions</h5>
@@ -51,7 +50,6 @@ quicklinks: |
   {{ page.resource8 }}
   <br/>
   {{ page.resource9 }}
-</ul>
 <br/>
 
 {{ page.quicklinks }}
