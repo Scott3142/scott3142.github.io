@@ -9,13 +9,11 @@ fileslink:
 
 resourcetitle: Lesson Resources
 hero: Below are some useful resources which will help you for this session.<br/>
-resource1:
-resource2:
-resource3:
-
-resource4:
-resource5:
-resource6:
+resource1: <center><a href="/assets/fmsp/tex/trig-sets-and-functions-presentation.pdf" target="_blank" class="btn btn-ghost">Presentation</a></center><br/><center>
+resource2: <center><a href="/assets/fmsp/tex/functions.pdf" target="_blank" class="btn btn-ghost">Revision Notes - Functions</a></center><br/><center>
+resource3: <center><a href="/assets/fmsp/tex/trig-and-complex.pdf" target="_blank" class="btn btn-ghost">Revision Notes - Trigonometry and Complex Numbers</a></center><br/><center>
+resource4: <center><a href="/assets/fmsp/tex/trig-equations.pdf" target="_blank" class="btn btn-ghost">Revision Notes - Trigonometric Equations</a></center><br/><center>
+resource5: <center><a href="/assets/fmsp/tex/types-of-functions.pdf" target="_blank" class="btn btn-ghost">Revision Notes - Types of Functions</a></center><br/><center>
 
 resource7: <center><a href="/assets/fmsp/trig-sets-and-functions.zip" target="_blank" class="btn btn-ghost">FMSP Resources (from previous years)</a></center>
 resource8:
@@ -34,7 +32,7 @@ quicklinks: |
 <ul style="list-style-type:disc;">
   {{ page.hero }}
   <br/>
-  <!--<h5>Graph Sketching:</h5>
+  <h5>Trig, Sets &amp; Functions</h5>
   <br/>
   {{ page.resource1 }}
   <br/>
@@ -42,14 +40,10 @@ quicklinks: |
   <br/>
   {{ page.resource3 }}
   <br/>
-  <h5>Conic Sections:</h5>
-  <br/>
   {{ page.resource4 }}
   <br/>
   {{ page.resource5 }}
   <br/>
-  {{ page.resource6 }}
-  <br/>-->
   <h5>General:</h5>
   <br/>
   {{ page.resource7 }}
