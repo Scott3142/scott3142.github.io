@@ -79,3 +79,13 @@ templates:
     text: RSA Encryption
     course:
       - hnc
+
+  - url: https://docs.google.com/document/d/1VRW7830VwS3T6Kk_RkL19ZxTqZ4mVuOlublPQ4ULW5E/export?format=pdf
+    text: Design Document
+    course:
+      - hnc
+
+  - url: https://docs.google.com/document/d/1LPGq0ArTt7BzkgF789JY3cY1AB0Iw7xKtOOhhY-Q_i0/export?format=pdf
+    text: Test Plan
+    course:
+      - hnc
