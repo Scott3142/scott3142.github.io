@@ -9,11 +9,11 @@ fileslink:
 
 resourcetitle: Lesson Resources
 hero: Below are some useful resources which will help you for this session.<br/>
-resource1:
+resource1: <center><a href="/assets/fmsp/tex/hyperbolics.pdf" target="_blank" class="btn btn-ghost">Presentation</a></center>
 resource2:
 resource3:
 
-resource4:
+resource4: <center><a href="/assets/fmsp/tex/integration.pdf" target="_blank" class="btn btn-ghost">Presentation</a></center>
 resource5:
 resource6:
 
@@ -34,18 +34,18 @@ quicklinks: |
 <ul style="list-style-type:disc;">
   {{ page.hero }}
   <br/>
-  <!--<h5>Graph Sketching:</h5>
+  <h5>Hyperbolics:</h5>
   <br/>
   {{ page.resource1 }}
-  <br/>
+  <!--<br/>
   {{ page.resource2 }}
   <br/>
   {{ page.resource3 }}
-  <br/>
-  <h5>Conic Sections:</h5>
+  <br/>-->
+  <h5>Integration:</h5>
   <br/>
   {{ page.resource4 }}
-  <br/>
+  <!--<br/>
   {{ page.resource5 }}
   <br/>
   {{ page.resource6 }}

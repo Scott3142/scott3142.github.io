@@ -1,0 +1,245 @@
+\documentclass[10pt]{beamer}
+%\documentclass[handout,10pt]{beamer}
+%\mode<presentation>
+%{
+%  \usetheme{Berkeley}
+%  \usecolortheme{seahorse}
+%  \usefonttheme{default}
+%  \setbeamertemplate{navigation symbols}{}
+%  \setbeamertemplate{caption}[numbered]
+%}
+
+\usetheme{metropolis}
+
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{caption}
+\usepackage{multirow}
+\usepackage{mathrsfs}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[compatibility=false]{caption}
+\usepackage{subcaption}
+\usepackage[normalem]{ulem}
+\DeclareMathOperator{\tr}{tr}
+\usepackage{textpos}
+\usepackage{animate}
+\DeclareMathOperator{\sech}{sech}
+\DeclareMathOperator{\cosech}{cosech}
+\DeclareMathOperator{\cosec}{cosec}
+
+\title[FMSP Further Mathematics]{Integration}
+%\titlegraphic{\includegraphics[height=1.57cm]{logo.jpg}}
+\author[Scott Morgan]{\textbf{Scott Morgan}}
+\institute{\textit{Further Mathematics Support Programme - WJEC A-Level Further Mathematics} \\
+\textit{31st March 2018}
+\\ \\ \\
+\textit{scott3142.com | @Scott3142}}
+\date
+
+\begin{document}
+
+\begin{frame}
+  \maketitle
+\end{frame}
+
+\begin{frame}{Topics}
+  \begin{itemize}
+	  \item Integration by completing the square
+ 	  \item Integration by substitution
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Topics}
+  \begin{itemize}
+	  \item Integration by completing the square
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Completing the Square}
+
+	\textbf{Examples:}
+	
+	Complete the square for the following quadratics:
+	
+	\begin{align*}
+		x^2 + 6x + 1 \\
+		5 - 8x - x^2 \\
+		2x^2 - 8x + 11 
+	\end{align*}
+	
+\end{frame}
+
+\begin{frame}{Integration by Completing the Square}
+
+	\textbf{Examples:}
+	
+	Find
+	
+	\begin{align*}
+		\int \frac{1}{\sqrt{x^2 + 2x + 2}} dx \\
+		\int \frac{1}{x^2 + 5x + 7} dx \\
+		\int \frac{1}{1-4x-2x^2} dx
+	\end{align*}
+	
+\end{frame}
+
+\begin{frame}{Integration by Completing the Square}
+
+	\textbf{Examples:}
+	
+	Find
+	
+	\begin{align*}
+		\int \frac{1}{\sqrt{x^2 - 2x + 3}} dx \\
+		\int \frac{1}{\sqrt{1 - 4x - x^2}} dx \\
+		\int \frac{1}{\sqrt{x^2 - 2x - 5}} dx \\
+		\int \frac{1}{\sqrt{2x^2 + 5x + 1}} dx \\
+		\int \frac{1}{\sqrt{3 - x - x^2}} dx
+	\end{align*}
+	
+\end{frame}
+
+\begin{frame}{Topics}
+  \begin{itemize}
+	  \item Integration by substitution
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Trigonometric Substitutions}
+
+	Expressions of the form $\sqrt{a^2-x^2}$ can be reduced to the square root of a single term by a substitution either of the form
+	
+	\begin{equation*}
+		x = a\sin(\theta)
+	\end{equation*}
+	
+	or of the form
+
+	\begin{equation*}
+		x = a\cos(\theta)
+	\end{equation*}	
+	
+\end{frame}
+
+\begin{frame}{Integration by Completing the Square}
+
+	\textbf{Examples:}
+	
+	By making a substitution write the following as a single trigonometric term in terms of $\theta$
+	
+	\begin{align*}
+		\sqrt{9-x^2} \\
+		\sqrt{25-x^2} \\
+		\sqrt{1-4x^2} \\
+		\sqrt{4-9x^2} \\
+		\sqrt{25-16x^2}
+	\end{align*}
+	
+\end{frame}
+
+\begin{frame}{Trigonometric Substitutions}
+
+	Expressions of the form $\sqrt{a^2-x^2}$ can be reduced to the square root of a single term by a substitution of the form
+	
+	\begin{equation*}
+		x = a\sinh(\theta)
+	\end{equation*}
+	
+	Expressions of the form $\sqrt{x^2-a^2}$ can be reduced to the square root of a single term by a substitution of the form
+		
+	\begin{equation*}
+		x = a\cosh(\theta)
+	\end{equation*}
+	
+\end{frame}
+
+\begin{frame}{Integration by Completing the Square}
+
+	\textbf{Examples:}
+	
+	By making a substitution write the following as a single trigonometric term in terms of $\theta$
+	
+	\begin{align*}
+		\sqrt{x^2-25} \\
+		\sqrt{x^2+16} \\
+		\sqrt{4x^2-1} \\
+		\sqrt{25x^2-1} \\
+		\sqrt{9x^2 - 4} \\
+		\sqrt{4x^2 + 25}
+	\end{align*}
+	
+\end{frame}
+
+\begin{frame}{Integration by Completing the Square}
+
+	\textbf{Example:}
+	
+	By making the substitution $x = 2\cosh(u)$, find
+	
+	\begin{equation*}
+		\int \frac{x^2}{\sqrt{x^2-4}} dx
+	\end{equation*}
+
+\end{frame}
+
+\begin{frame}{Integration by Completing the Square}
+
+	\textbf{Example:}
+	
+	By making the substitution $x = \sinh(u)$, find
+	
+	\begin{equation*}
+		\int (x^2 + 1)^{-\frac{3}{2}} dx
+	\end{equation*}
+
+\end{frame}
+
+\begin{frame}{Integration by Completing the Square}
+
+	\textbf{Exam Question:}
+	
+	\begin{itemize}
+	
+		\item [(a)] Assuming the derivatives of $\sinh(\theta)$ and $\cosh(\theta)$, use the quotient rule to find the derivative of $\coth(\theta)$ \hfill[3]
+		
+		\item [(b)] Use the substitution $x = \cosh(\theta)-2$ to evaluate the integral
+			
+			\begin{equation*}
+				\int_1^2 \frac{dx}{\left(x^2+4x+3\right)^{\frac32}}
+			\end{equation*}		
+			
+		giving your answer correct to three significant figures. \hfill[8]
+
+		
+	\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Integration by Completing the Square}
+
+	\textbf{Exam Question:}
+	
+	\begin{itemize}
+	
+		\item [(a)] By expressing $\sech(x)$ and $\tanh(x)$in terms of exponential functions, show that 
+		
+			\begin{equation*}
+				\sech^2(x) + \tanh^2(x) = 1
+			\end{equation*}
+		
+		\item [(b)] Use the substitution $x = \sinh(u)$ to evaluate the integral
+			
+			\begin{equation*}
+				\int_0^1 \frac{x^2}{\left(1+x^2\right)^{\frac32}}dx
+			\end{equation*}		
+			
+		giving your answer correct to three significant figures.
+
+		
+	\end{itemize}
+
+\end{frame}
+
+\end{document}
