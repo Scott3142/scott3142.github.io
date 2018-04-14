@@ -1,23 +1,43 @@
-- title: Postgraduate Demonstrator
+- title: Associate Lecturer
   institution: Cardiff University
-  year: (2014 - Present)
+  year: (2018 - Present)
   description: |
-    <em>Led weekly classroom based tutorial sessions on a wide variety of topics including Calculus, Group Theory, Analysis, Differential Equations and Computing.
-    <br/><br/>
-    Instructor in weekly drop-in sessions of Cardiff University's Maths Support service, handling a wide range of mathematics-based queries from students in many fields including Engineering, Physics, Economics, Biology and Chemistry.
+    <em>Delivered second year undergraduate lecture course 'Elementary Fluid Dynamics'.
     </em>
 
-- title: Hourly Paid Lecturer &amp; Computing Consultant
+- title: PhD Tutor
+  institution: The Brilliant Club
+  year: (2018 - Present)
+  description: |
+    <em>Successful in application to Brilliant Club PhD Scholars programme.<br><br>
+    Developed and ran short courses aimed at talented KS3 and KS4 students from traditionally disadvantaged backgrounds.
+    </em>
+
+- title: Lecturer
+  institution: Bridgend College
+  year: (2017 - Present)
+  description: |
+    <em>Devised, composed and delivered curriculum for BTEC Level 2/3 and 4 modules in Digital Application Development, Automated Systems and Website Design &amp; Development.
+    </em>
+
+- title: Computing Consultant
   institution: Bridgend College
   year: (2016 - Present)
   description: |
-    <em>Devised, composed and delivered curriculum for BTEC Level 2/3 and 4 modules in Digital Application Development and Website Design &amp; Development.
-    <br/><br/>
-    Delivered CPD training sessions to staff using Raspberry Pi and Python.
+    Delivered CPD training sessions to staff using Raspberry Pi, Python and BBC Micro:bit.
     <br/><br/>
     Engaged with students via classes and workshops and provided technical assistance with teaching and project based modules.
     <br/><br/>
     Worked closely with PiCymru and participated in regional and national events such as the Urdd Eisteddfod, World Skills Cymru and STEM fairs to showcase projects to local schools and businesses.
+    </em>
+
+- title: Postgraduate Demonstrator
+  institution: Cardiff University
+  year: (2014 - 2018)
+  description: |
+    <em>Led weekly classroom based tutorial sessions on a wide variety of topics including Calculus, Group Theory, Analysis, Differential Equations and Computing.
+    <br/><br/>
+    Instructor in weekly drop-in sessions of Cardiff University's Maths Support service, handling a wide range of mathematics-based queries from students in many fields including Engineering, Physics, Economics, Biology and Chemistry.
     </em>
 
 - title: Raspberry Pi Certified Educator

@@ -23,7 +23,7 @@ hero: I have a passion for education and firmly believe that teaching is one of 
   <h5>Previous</h5>
   <ul>
     {% for previousCourse in site.data.courses.previous %}
-      <li>{{ previousCourse.title }} | <em>{{ previousCourse.institution }}</em> {% if previousCourse.url contains "/apps/" %} | <a href="/apps/"><em>Course Page</em></a>{% endif %}</li>
+      <li>{{ previousCourse.title }} | <em>{{ previousCourse.institution }}</em> {% if previousCourse.url %} | <a href="{{ previousCourse.url }}"><em>Course Page</em></a>{% endif %}</li>
     {% endfor %}
   </ul>
 </ul>
@@ -43,6 +43,6 @@ hero: I have a passion for education and firmly believe that teaching is one of 
 <h4>Outreach &amp; Engagement</h4>
 <ul>
   {% for event in site.data.outreach %}
-    <li>{{ event.title }} | <em>{{ event.institution }}</em> {{ event.extra }}</li>
+    <li>{{ event.title }} | <em>{{ event.institution }}</em> {{ event.extra }}</li><br><br>
    {% endfor %}
 </ul>

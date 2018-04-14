@@ -12,6 +12,10 @@ hosted:
     
 invitedTalk:
 
+#  - title: Engineering Department Seminar Series
+#    institution: University of Warwick
+#    year: 2018
+
   - title: Department of Engineering Seminar Series
     institution: Leicester University
     year: 2017
@@ -21,6 +25,14 @@ invitedTalk:
     year: 2017
     
 contributedTalk:
+
+#  - title: Welsh Mathematics Colloquium
+#    institution: Gregynog
+#    year: 2018  
+
+#  - title: PyDiff
+#    institution: Cardiff University
+#    year: 2018  
 
   - title: DiPaRT
     institution: Bristol & Bath Science Park
