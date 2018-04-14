@@ -33,9 +33,9 @@ hero: I have a passion for education and firmly believe that teaching is one of 
 <h4>Teaching Experience</h4>
 <ul>
   {% for job in site.data.teaching_experience %}
-    <li>{{ job.title }} | <em>{{ job.institution }} {{ job.year }}</em></li>
+    <li><b style="font-weight:bold;">{{ job.title }}</b> | <em>{{ job.institution }} {{ job.year }}</em></li>
   <ul><br/>
-    <li>{{ job.description }}</li><br/>
+    <li><em>{{ job.description }}</em></li><br/>
   </ul>
   {% endfor %}
 </ul>
@@ -43,6 +43,6 @@ hero: I have a passion for education and firmly believe that teaching is one of 
 <h4>Outreach &amp; Engagement</h4>
 <ul>
   {% for event in site.data.outreach %}
-    <li>{{ event.title }} | <em>{{ event.institution }}</em> {{ event.extra }}</li><br><br>
+    <li><b style="font-weight:bold;">{{ event.title }}</b> | <em>{{ event.institution }}</em> {{ event.extra }}</li><br><br>
    {% endfor %}
 </ul>
