@@ -30,9 +30,10 @@ contributedTalk:
 #    institution: Gregynog
 #    year: 2018  
 
-#  - title: PyDiff
-#    institution: Cardiff University
-#    year: 2018  
+  - title: PyDiff
+    institution: Cardiff University
+    year: 2018  
+    extra: ' | <a href="https://docs.google.com/presentation/d/1YUb9Ng_e6nWjTwnPmRktB5umIUcoc8owBzBL5nAl1GQ/export/pdf" target="_blank">Slides</a>'
 
   - title: DiPaRT
     institution: Bristol & Bath Science Park
