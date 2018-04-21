@@ -1,0 +1,25 @@
+lessons:
+
+  - text: Masterclass 1 - Slides
+    url: https://docs.google.com/presentation/d/1REYTFqbDF0ECR89B6IRAxB73gnupW7uasa5FnPuB7Ig/export/pdf
+
+  - text: Masterclass 2 - Slides
+    url: https://docs.google.com/presentation/d/1uuZXnkjYkn9EhNdlO35upAPm0jGumVxN1b16ek6iuRM/export/pdf
+
+  - text: Masterclass 2 - CoCalc Instructions
+    url: /stepup/cocalc.html
+
+links:
+
+  - text: Contact Me
+    url: /contact/
+
+timetable:
+
+  - day: 28 March 2018
+    time: 17:00 - 19:00
+    location: Postgraduate Centre, Cardiff University
+
+  - day: 25 April 2018
+    time: 17:00 - 19:00
+    location: Postgraduate Centre, Cardiff University
