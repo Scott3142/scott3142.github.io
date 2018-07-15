@@ -4,6 +4,8 @@ current:
   institution: Cardiff University
   url: /stepup/
 
+previous:
+
 - title: Website Design &amp; Development
   institution: Bridgend College
   url: /hnc/
@@ -11,9 +13,6 @@ current:
 - title: A-Level Further Mathematics
   institution: FMSP
   url: /fmsp/
-
-previous:
-
 
 - title: Introduction to Matlab
   institution: Cardiff University

@@ -3,6 +3,18 @@
   type: EPSRC Postgraduate Research Studentship
   year: 2014-2018
 
+- amount: £2500
+  type: First Campus Primary School Workshops
+  year: 2018
+
+- amount: £80
+  type: SIAM Student Travel Award
+  year: 2018
+
+- amount: £425
+  type: LMS Education Grant
+  year: 2018
+
 - amount: £600
   type: UKFN Short Research Visit
   year: 2018
@@ -13,6 +25,14 @@
 
 - amount: $800
   type: SIAM Student Travel Award
+  year: 2017
+
+- amount: £400
+  type: IMA Education Grant
+  year: 2017
+
+- amount: £500
+  type: Cardiff University Widening Participation Grant
   year: 2017
 
 - amount: €220
@@ -27,11 +47,3 @@
   duration: (8 weeks)
   type: <a href="https://www.cardiff.ac.uk/study/undergraduate/why-study-with-us/leaders-in-research/research-opportunities" target="_blank">Cardiff Undergraduate Research Opportunities Program</a>
   year: 2013
-
-- amount: £400
-  type: IMA Education Grant (on behalf of SIAM-IMA Student Chapter)
-  year: 2017
-
-- amount: £500
-  type: Cardiff University Widening Access Grant (on behalf of SIAM-IMA Student Chapter)
-  year: 2017
