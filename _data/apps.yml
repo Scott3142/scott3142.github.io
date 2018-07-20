@@ -1,11 +1,11 @@
-lessons: 
+lessons:
 
   - text: Lesson 0 - Introduction
     url: /apps/lessons/0/
 
   - text: Lesson 1 - Basic Concepts
     url: /apps/lessons/1/
-     
+
   - text: Lesson 2 - Content Management Systems
     url: /apps/lessons/2/
 
@@ -14,33 +14,26 @@ lessons:
 
   - text: Lesson 4 - Design
     url: /apps/lessons/4/
-    
-links:
 
-  - text: Assignments (Coming Soon) 
-    #url: /assets/apps/apps-assignment-1.pdf
-    
-  - text: Design Brief (Coming Soon) 
-    #url: /assets/apps/design-brief.pdf
+links:
 
   - text: Full Course Specification
     url: /assets/apps/fullspec.pdf
-     
+
   - text: Unit Specification
     url: /assets/apps/unitspec.pdf
-    
+
   - text: Contact Me
     url: /contact/
-    
+
 timetable:
-  
+
   - group: A
     day: Fridays
     time: 09:00 - 10:20
     location: J/0.08
-    
+
   - group: B
     day: Fridays
     time: 10:30 - 12:50
     location: J/0.08
-

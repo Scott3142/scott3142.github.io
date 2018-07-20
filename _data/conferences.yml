@@ -1,14 +1,14 @@
-hosted:
+organised:
 
   - title: UK Fluids Network PhD/Early Career Conference
     institution: Cardiff University
     year: 2018
     extra: ' | <a href="http://www.cardiffmaths.co.uk/ukfn.html" target="_blank">Details</a>'
 
-  - title: SIAM-IMA Student Chapter <em>Full STEAM Ahead</em> Workshops
-    institution: Cardiff University
-    year: 2017
-    extra: ' | <a href="https://siamukie.wordpress.com/2017/06/29/full-steam-ahead-for-cardiff-siam-ima-student-chapter/" target="_blank">Blog</a>'
+  #- title: SIAM-IMA Student Chapter <em>Full STEAM Ahead</em> Workshops
+  #  institution: Cardiff University
+  #  year: 2017
+  #  extra: ' | <a href="https://siamukie.wordpress.com/2017/06/29/full-steam-ahead-for-cardiff-siam-ima-student-chapter/" target="_blank">Blog</a>'
 
   - title: 5th SIAM National Student Chapter Conference
     institution: Cardiff University

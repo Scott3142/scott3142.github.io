@@ -1,14 +1,14 @@
 - image: /images/culogo.png
   url: https://www.cardiff.ac.uk/
-  style: width:20%; padding:2%; margin-left:10%; float:left; 
+  style: width:20%; padding:2%; margin-left:10%; float:left;
 
 - image: /images/bcoll.png
   url: https://www1.bridgend.ac.uk/
-  style: width:40%; padding:2%; margin-left:20%; float:left; 
+  style: width:40%; padding:2%; margin-left:20%; float:left;
 
 - image: /images/ukfn.png
   url: https://ukfluids.net/
-  style: width:30%; padding:2%; margin-top:8%; margin-left:5%; float:left;
+  style: text-align:center;
 
 - image: /images/brilliant.jpg
   url: http://www.thebrilliantclub.org/
@@ -25,27 +25,27 @@
 - image: /images/ima_logo.png
   url: https://ima.org.uk/
   style: width:30%; padding:2%; margin-left:34%; margin-top:4%;
-  
+
 - image: /images/emotion.jpg
   url: http://www.emotion-robotics.com/
   style: width:30%; padding:2%; margin-top:4%; margin-left:34%;
-  
+
 - image: /images/picymru.png
   url: https://picymru.org.uk/
   style: width:30%; padding:2%; margin-top:-4%; margin-left:34%;
-  
+
 - image: /images/picademy.png
   url: https://www.raspberrypi.org/training/picademy/
   style: width:25%; padding:2%; margin-top:-5%; margin-left:37.5%;
-  
+
 #- image: /images/blc.jpeg
 #  url: https://www.biglearningcompany.com/
 #  style: width:25%; padding:2%; margin-top:2%; margin-left:37.5%;
-  
+
 - image: /images/aspire_logo.png
   url: http://www.aspire2be.eu/
-  style: width:30%; padding:2%; margin-top:2%; margin-left:34%;        
-  
+  style: width:30%; padding:2%; margin-top:2%; margin-left:34%;
+
 - image: /images/stem.jpg
   url: https://www.stem.org.uk/stem-ambassadors/ambassadors
   style: width:25%; padding:2%; margin-top:4%; margin-left:37.5%;

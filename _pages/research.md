@@ -5,16 +5,16 @@ permalink: /research/
 
 hero: |
 
-  My current research interests broadly include fluid dynamics, computational modelling and mechanisms for flow transition to turbulence. I have general interests in all types of computational modelling, in particular relating to mathematical modelling of biological materials and processes.
+  My current research interests broadly include fluid dynamics, computational modelling and mechanisms for flow transition to turbulence. I have passing interests in all types of computational modelling, in particular relating to mathematical modelling of biological materials and processes.
 
 ---
 
-<!--<p>{{ page.hero }}</p>-->
+<p>{{ page.hero }}</p>
 
 <p>{{ site.cvlink }}</p>
 <br>
 
-<h4>Projects</h4>
+<center><h4>Projects</h4></center><br>
 <ul>
   {% for project in site.data.projects %}
     <li>{{ project.title }} | <em>{{ project.institution }} {{ project.year }}</em></li>
@@ -26,42 +26,46 @@ hero: |
 
 <br/>
 
-<h4>Notable Contributions</h4>
+<center><h4>Notable Contributions</h4></center><br>
 <ul>
   {% for contribution in site.data.contributions %}
-    <li>{{ contribution.title }} | <em>{{ contribution.institution }} {{ contribution.year }}</em></li>
-  <ul><br/>
-    <li>{{ contribution.description }}</li><br/>
-  </ul>
+    {% if contribution.type contains "research" %}
+      <li>{{ contribution.title }} | <em>{{ contribution.institution }} {{ contribution.year }}</em></li>
+      <ul><br/>
+        <li>{{ contribution.description }}</li><br/>
+      </ul>
+  {% endif %}
   {% endfor %}
 </ul>
 
 <br/>
 
-<h4>Academic Awards</h4>
-<ul style="list-style-type:disc">
+<center><h4>Academic Awards</h4><br>
+<ul>
   {% for award in site.data.awards %}
-    <li>{{ award.title }} | <em>{{ award.institution }} ({{ award.year }})</em></li>
+    <li>{{ award.title }} | <em>{{ award.institution }} ({{ award.year }})</em></li><br>
   {% endfor %}
-</ul>
+</ul></center>
 
-<br/>
+<br>
 
-<h4>Funding Awarded</h4>
+<center><h4>Research Funding</h4><br>
 <ul>
   {% for fund in site.data.funding %}
-    <li>{{ fund.amount }} {{ fund.duration }} | <em>{{ fund.type }} ({{ fund.year }})</em></li><br/>
+    {% if fund.type contains "research" %}
+      <li>{{ fund.amount }} {{ fund.duration }} | <em>{{ fund.title }} ({{ fund.year }})</em></li><br/>
+    {% endif %}
   {% endfor %}
-</ul>
+</ul></center>
 
 <br/>
 
-<h4>Conferences &amp; Workshops</h4>
+<center><h4>Conferences &amp; Workshops</h4></center><br>
 <ul>
-  <li>Hosted:</li>
+  <li>Organised:</li>
   <ul>
-    {% for hostedConference in site.data.conferences.hosted %}
-      <li>{{ hostedConference.title }} | <em> {{ hostedConference.institution }} ({{ hostedConference.year }})</em> {{ hostedConference.extra }}</li>
+    {% for organisedConference in site.data.conferences.organised %}
+      <li>{{ organisedConference.title }} | <em> {{ organisedConference.institution }} ({{ organisedConference.year }})</em> {{ organisedConference.extra }}</li>
     {% endfor %}
   </ul>
   <br/>
@@ -97,7 +101,7 @@ hero: |
 
 <br/>
 
-<h4>Society Membership</h4>
+<center><h4>Society Membership</h4></center><br>
 <ul>
   {% for society in site.data.memberships %}
     <li><a href="{{ society.url }}" target="_blank">{{ society.name }}</a></li>

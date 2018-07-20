@@ -37,18 +37,14 @@ links:
   - text: Unit Specification
     url: /assets/software/unitspec.pdf
 
-  - text: Assignments (Coming Soon) 
-    #url: /assets/software/software-assignment-1.pdf
-
 timetable:
-  
+
   - group: A
     day: Fridays
     time: 09:00 - 10:20
     location: J/0.08
-    
+
   - group: B
     day: Fridays
     time: 10:30 - 12:50
     location: J/0.08
-

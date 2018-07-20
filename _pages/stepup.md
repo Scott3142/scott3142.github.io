@@ -17,7 +17,7 @@ contact: The main point of contact for all questions relating to this course wil
 <br/>
 <ul>
   {% for lesson in site.data.stepup.lessons %}
-    <li><a href="{{ lesson.url }}" class="btn btn-ghost"><em>{{ lesson.text }}</em></a></li><br/>
+    <center><li><a href="{{ lesson.url }}" class="btn btn-ghost"><em>{{ lesson.text }}</em></a></li><br/></center>
   {% endfor %}
 
   <br/>

@@ -1,26 +1,49 @@
 - title: Founding member of Boundary Layers and Complex Rotating Flows Special Interest Group
   institution: UK Fluids Network
   year: (2017 - Present)
+  type: research
   description: |
-    <em>Core member of special interest group looking at developing collaborative links between UK and international research groups on rotating flows. <br><br> 
+    <em>Core member of special interest group looking at developing collaborative links between UK and international research groups on rotating flows. <br><br>
 
     Awarded grant funding for short research visits to Leicester, Warwick and Coventry to develop collaborative ties.</em> | <a href="https://fluids.ac.uk/sig/RotatingBL" target="_blank">Site</a>
+
+- title: Community Engagement Officer
+  institution: British Science Association
+  year: (2018 - Present)
+  type: outreach
+
+- title: Scholars Programme Tutor
+  institution: Brilliant Club
+  year: (2018)
+  type: outreach
+
+- title: STEM Engagement Officer
+  institution: First Campus &amp; Cardiff University
+  year: (2018)
+  type: outreach
+
+- title: STEM Ambassador
+  institution: Cardiff University
+  year: (2017 - Present)
+  type: outreach
+  #description: |
+  #  June 2018: <em>Organised and hosted the Full STEAM Ahead workshops at Cardiff University. Secured competitive grant funding totalling over £1000 for external workshops on Game Theory, 3D printing, Raspberry Pi and DIY Brain Surgery. </em> | Partners: <a href="https://www.cardiff.ac.uk/" target="_blank">Cardiff University</a>, <a href="https://www1.bridgend.ac.uk/" target="_blank">Bridgend College</a>, <a href="https://www.siam.org/" target="_blank">SIAM</a>, <a href="https://ima.org.uk/" target="_blank">IMA</a>, <a href="https://lms.ac.uk/" target="_blank">LMS</a>, <a href="http://www.emotion-robotics.com/" target="_blank">Emotion Robotics</a>,  | <a href="http://www.cardiff.ac.uk/news/view/1220809-nurturing-a-love-of-science" target="_blank">News Article</a>
 
 - title: Cardiff SIAM-IMA Student Chapter President
   institution: Cardiff University
   year: (2015 - 2017)
-  description: |
-    May 2016: <em>Organised and hosted the SIAM National Student Chapter Conference at Cardiff University.</em> | <a href="https://siamukie.wordpress.com/2016/05/30/5th-national-sc-conference/" target="_blank">Blog</a>
-    <br/><br/>
-    August 2016: <em>Oversaw re-branding of new SIAM-IMA Student Chapter from SIAM Chapter after securing funding from the IMA.</em>
-    <br/><br/>
-    May 2017: <em>Organised 3-minute thesis competition for postgraduate students.</em> | <a href="https://siamukie.wordpress.com/2017/05/10/cardiff/" target="_blank">Blog</a>
-    <br/><br/>
-    June 2017: <em>Secured competitive grant funding totalling over £2000 for conference travel and public engagement workshop sessions including external workshops on robotics, 3D printing and Raspberry Pi. Article published in Mathematics Today.</em> | Partners: <a href="https://www.cardiff.ac.uk/" target="_blank">Cardiff University</a>, <a href="https://www1.bridgend.ac.uk/" target="_blank">Bridgend College</a>, <a href="https://www.siam.org/" target="_blank">SIAM</a>, <a href="https://ima.org.uk/" target="_blank">IMA</a>, <a href="http://www.emotion-robotics.com/" target="_blank">Emotion Robotics</a>,  <a href="http://www.sonypencoed.co.uk/about/" target="_blank">Sony UKTec</a> | <a href="https://siamukie.wordpress.com/2017/06/29/full-steam-ahead-for-cardiff-siam-ima-student-chapter/" target="_blank">Blog</a>
+  type: outreach
+  #description: |
+  #  May 2016: <em>Organised and hosted the SIAM National Student Chapter Conference at Cardiff University.</em> | <a href="https://siamukie.wordpress.com/2016/05/30/5th-national-sc-conference/" target="_blank">Blog</a>
+#    <br/><br/>
+  #  August 2016: <em>Oversaw re-branding of new SIAM-IMA Student Chapter from SIAM Chapter after securing funding from the IMA.</em>
+#    <br/><br/>
+  #  May 2017: <em>Organised 3-minute thesis competition for postgraduate students.</em> | <a href="https://siamukie.wordpress.com/2017/05/10/cardiff/" target="_blank">Blog</a>
+#    <br/><br/>
+  #  June 2017: <em>Organised and hosted the Full STEAM Ahead workshops at Cardiff University. Secured competitive grant funding totalling over £1000 for external workshops on robotics, 3D printing and Raspberry Pi. Article published in Mathematics Today.</em> | Partners: <a href="https://www.cardiff.ac.uk/" target="_blank">Cardiff University</a>, <a href="https://www1.bridgend.ac.uk/" target="_blank">Bridgend College</a>, <a href="https://www.siam.org/" target="_blank">SIAM</a>, <a href="https://ima.org.uk/" target="_blank">IMA</a>, <a href="http://www.emotion-robotics.com/" target="_blank">Emotion Robotics</a>,  <a href="http://www.sonypencoed.co.uk/about/" target="_blank">Sony UKTec</a> | <a href="https://siamukie.wordpress.com/2017/06/29/full-steam-ahead-for-cardiff-siam-ima-student-chapter/" target="_blank">Blog</a>
 
-- title: Lead Instructor on Undergraduate MATLAB course
-  institution: Cardiff University
-  year: (2016 - Present)
-  description: |
-    <em>Devised, composed and delivered an 11-week intensive course titled An Introduction to MATLAB to final-year undergraduates and postgraduates. Responsible for all aspects of the course.</em> | <a href="https://github.com/Scott3142/ugmatlab" target="_blank">Course Notes</a>
-
+#- title: Lead Instructor on Undergraduate MATLAB course
+#  institution: Cardiff University
+#  year: (2016 - Present)
+#  description: |
+#    <em>Devised, composed and delivered an 11-week intensive course titled An Introduction to MATLAB to final-year undergraduates and postgraduates. Responsible for all aspects of the course.</em> | <a href="https://github.com/Scott3142/ugmatlab" target="_blank">Course Notes</a>
