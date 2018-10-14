@@ -7,7 +7,13 @@ common:
     url: https://www.codecademy.com
 
   - text: Codewars
-    url: https://www.codecademy.com
+    url: https://www.codewars.com/
+
+  - text: Free Code Camp
+    url: https://www.freecodecamp.org/
+
+  - text: Khan Academy
+    url: https://www.khanacademy.org/math
 
 fmsp:
 
