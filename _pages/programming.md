@@ -25,7 +25,7 @@ fileslink:
   {% for resource in site.data.teaching_resources.common %}
     <li><a href="{{ resource.url }}" target="_blank"><em>{{ resource.text }}</em></a></li>
   {% endfor %}
-  <li><a href="{{ resource.url }}" target="_blank"><em>{{ resource.text }}</em></a></li>s
+  <li><a href="/ugmatlab/" target="_blank"><em>MATLAB Final Year Course</em></a></li>
 </ul>
 <br/>
 

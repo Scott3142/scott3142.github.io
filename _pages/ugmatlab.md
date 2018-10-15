@@ -19,7 +19,7 @@ notes: The notes for this course are available on <a href="https://github.com/Sc
 <p>{{ page.hero }}</p>
 <br/>
 
-<center>
+<!--<center>
 <a href="{{ page.diagnosticlink }}" target="_blank" class="btn btn-ghost">Initial Questionnaire</a>
 <br/><br/>
 </center>
@@ -34,7 +34,7 @@ notes: The notes for this course are available on <a href="https://github.com/Sc
 <ul>
 <li><em>{{ page.timetable }}</em></li>
 </ul>
-<br/>
+<br/>-->
 
 <h4>Course Notes and Program Files:</h4>
 <ul>
