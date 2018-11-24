@@ -3,16 +3,17 @@ title: About
 layout: default
 permalink: /about/
 
-heroRes: I am currently a PhD student studying Mathematics at Cardiff University, working alongside my supervisor <a href="https://www.cardiff.ac.uk/people/view/98638-davies-chris" target="_blank">Dr. Chris Davies</a>. My research is based primarily in fluid dynamics and in particular hydrodynamic stability theory. I am interested in laminar flow control techniques and have looked at oscillatory flows over rotating disks and flat plates. To find out more, visit my <a href="/research">research</a> pages or <a href="/contact">get in touch</a>!
+heroEdu: I am currently Digital Literacy Lead at Bridgend College, developing bespoke digital content for a variety of curriculum areas. I am passionate about research, technology and education and am interested in new and innovative ways to deliver computing and emerging technologies to students. I am a Raspberry Pi Certified Educator and a Google Level 2 Certified Educator and am always interested in progressing my knowledge and skills. If you would like to find out more, visit my <a href="/teaching">teaching</a> pages or <a href="/contact">get in touch</a>!
 
-heroEdu: I am also interested in computing for education, and have run several workshops and classes using Raspberry Pi computers, BBC MicroBit and Arduinos. I am a Raspberry Pi Certified Educator and am very interested in new and innovative ways to deliver computing to school students. If you would like to find out more, visit my <a href="/teaching">teaching</a> pages or <a href="/contact">get in touch</a>!
+heroRes: My PhD in Mathematics at Cardiff University involved research into hydrodynamic stability theory and methods for delaying transition to turbulence in flight. Working alongside my supervisor <a href="https://www.cardiff.ac.uk/people/view/98638-davies-chris" target="_blank">Dr. Chris Davies</a>, I demonstrated that a periodic modulation to the rotation rate of a rotating disk resulted in stabilisation across the boundary layer. To find out more, visit my <a href="/research">research</a> pages or <a href="/contact">get in touch</a>!
+
 ---
 
-<p>{{ page.heroRes }}</p>
+<p>{{ page.heroEdu }}</p>
 
 <p><br></p>
 
-<p>{{ page.heroEdu }}</p>
+<p>{{ page.heroRes }}</p>
 
 <p><br></p>
 
