@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-360_0023",
-      "name": "360_0023",
+      "id": "0-360_0027_stitch_xhc",
+      "name": "360_0027_Stitch_XHC",
       "levels": [
         {
           "tileSize": 256,
@@ -22,7 +22,7 @@ var APP_DATA = {
           "size": 2048
         }
       ],
-      "faceSize": 1448,
+      "faceSize": 1368,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -37,6 +37,6 @@ var APP_DATA = {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
     "fullscreenButton": true,
-    "viewControlButtons": false
+    "viewControlButtons": true
   }
 };
