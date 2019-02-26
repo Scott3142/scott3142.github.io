@@ -1,6 +1,6 @@
 ---
 title: Bridgend College Test Page
-permalink: /test/
+permalink: /chatbot_test/
 
 ---
 
