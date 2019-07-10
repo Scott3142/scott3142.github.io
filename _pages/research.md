@@ -14,6 +14,15 @@ hero: |
 <p>{{ site.cvlink }}</p>
 <br>
 
+<center><h4>Publications</h4></center><br>
+<ul>
+  {% for pub in site.data.pubs %}
+    <li>{{ pub.authors }} <em>{{ pub.title }} {{ pub.journal }} {{ pub.year }}</em></li><br>
+  {% endfor %}
+</ul>
+
+<br/>
+
 <center><h4>Projects</h4></center><br>
 <ul>
   {% for project in site.data.projects %}

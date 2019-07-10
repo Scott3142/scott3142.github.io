@@ -33,9 +33,32 @@ hero: I have a passion for education and firmly believe that teaching is one of 
 <center><h4>Teaching Experience</h4></center><br>
 <ul>
   {% for job in site.data.teaching_experience %}
-    <li><b style="font-weight:bold;">{{ job.title }}</b> | <em>{{ job.institution }} {{ job.year }}</em></li>
-  <ul><br/>
-    <li><em>{{ job.description }}</em></li><br/>
-  </ul>
+
+    <style> #more{{ forloop.index }} { display:none; }</style>
+
+    <li><b style="font-weight:bold;">{{ job.title }}</b> | <em>{{ job.institution }} {{ job.year }}</em>
+
+    <br><a onclick="readMore{{ forloop.index }}()" id="readMoreLink{{ forloop.index }}">More info...</a></li><br>
+
+    <span id="more{{ forloop.index }}">
+      <ul><br>
+        <li><em>{{ job.description }}</em></li><br/>
+      </ul>
+    </span>
+
+    <script>
+      function readMore{{ forloop.index }}() {
+        var moreText = document.getElementById("more{{ forloop.index }}");
+        var linkText = document.getElementById("readMoreLink{{ forloop.index }}");
+
+        if (linkText.innerHTML === "More info...") {
+          linkText.innerHTML = "Collapse";
+          moreText.style.display = "inline";
+        } else {
+          linkText.innerHTML = "More info...";
+          moreText.style.display = "none";
+        }
+      }
+    </script>
   {% endfor %}
 </ul>
