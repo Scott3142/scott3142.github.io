@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: homepage
+layout: default
 description: Personal webpage of Scott Morgan.  Digital Lead at Bridgend College. Mathematics PhD. Interested in education, coding and all things tech.
 image: /images/author_small.jpg
 author: <!--Dr--> Scott Morgan

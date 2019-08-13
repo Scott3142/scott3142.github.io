@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: default
-permalink: /contact/
+permalink: /contact_old/
 ---
 
 {% for contactlink in site.data.social %}

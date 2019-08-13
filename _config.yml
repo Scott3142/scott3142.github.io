@@ -1,12 +1,13 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+name: 'Scott Morgan'
+description: 'Personal site of Scott Morgan. Digital Lead at Bridgend College. Pages and blog about research based education, coding and technology. '
+logo: 'assets/images/author.jpg'
+#favicon: 'assets/images/favicon.ico'
+#baseurl: '/mundana-theme-jekyll'
+baseurl: ''
+#disqus: 'demowebsite'
+email: 'smorgan@bridgend.ac.uk'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -22,7 +23,7 @@ authors:
     scott:
       name:           Scott
       site:           https://scott3142.uk
-      avatar:         /assets/images/author.jpg
+      avatar:         assets/images/author.jpg
       bio:            "Hi, I'm Scott. Insert some stuff here."
       email:          smorgan@bridgend.ac.uk
       twitter:        https://twitter.com/Scott3142

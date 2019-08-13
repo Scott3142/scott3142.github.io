@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-permalink: /about/
+permalink: /about_old/
 
 heroEdu: I am currently Digital Lead at Bridgend College, developing bespoke digital content for a variety of curriculum areas. I am passionate about research, technology and education and am interested in new and innovative ways to deliver computing and emerging technologies to students. I am a Raspberry Pi Certified Educator and a Google Level 2 Certified Educator and am always interested in progressing my knowledge and skills. If you would like to find out more, visit my <a href="/teaching">teaching</a> pages or <a href="/contact">get in touch</a>!
 
