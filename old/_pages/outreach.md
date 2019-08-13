@@ -12,12 +12,37 @@ hero: Over the past few years I have been involved in a number of outreach and s
 <center><h4>Projects</h4></center><br>
 <ul>
   {% for event in site.data.outreach %}
-    <li><b style="font-weight:bold;">{{ event.title }}</b> | <em>{{ event.institution }}</em> <em>({{ event.year }})</em> {{ event.extra }}</li>
-    <ul><br>
-      <li>{{ event.description }}</li> {%if event.partners %}<br>
-      <li><b style="font-weight:bold;">Partners:</b> {{ event.partners }} </li>{% endif %}
-    </ul>
-    <br><br>
+
+    <style> #more{{ forloop.index }} { display:none; }</style>
+
+    <li><b style="font-weight:bold;">{{ event.title }}</b> | <em>{{ event.institution }}</em> <em>({{ event.year }})</em> {{ event.extra }}
+
+    <br><a onclick="readMore{{ forloop.index }}()" id="readMoreLink{{ forloop.index }}">More info...</a></li>
+
+    <span id="more{{ forloop.index }}">
+      <ul><br>
+        <li>{{ event.description }}</li> {%if event.partners %}<br>
+        <li><b style="font-weight:bold;">Partners:</b> {{ event.partners }} </li>{% endif %}
+      </ul>
+    </span>
+
+    <br>
+
+    <script>
+      function readMore{{ forloop.index }}() {
+        var moreText = document.getElementById("more{{ forloop.index }}");
+        var linkText = document.getElementById("readMoreLink{{ forloop.index }}");
+
+        if (linkText.innerHTML === "More info...") {
+          linkText.innerHTML = "Collapse";
+          moreText.style.display = "inline";
+        } else {
+          linkText.innerHTML = "More info...";
+          moreText.style.display = "none";
+        }
+      }
+    </script>
+
    {% endfor %}
 </ul>
 
