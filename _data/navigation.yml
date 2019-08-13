@@ -1,11 +1,11 @@
 - title: Home
   url: /
 
-- title: About
-  url: /about
-
 - title: Projects
   url: /projects
+
+- title: Career
+  url: /career
 
 - title: Contact
   url: /contact

@@ -4,8 +4,14 @@
   description: |
     Insert description here.
 
-- title: Public Engagement with Science
+- title: Science Engagement
   url: /scicomm
+  image: /assets/images/author.jpg
+  description: |
+    Insert description here.
+
+- title: Teaching
+  url: /teaching
   image: /assets/images/author.jpg
   description: |
     Insert description here.

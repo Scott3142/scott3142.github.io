@@ -1,0 +1,62 @@
+- title: Bridgend College
+  year: 2018 - Present
+  description: |
+    Insert description here.
+
+- title: Cardiff University
+  year: 2010 - 2018
+  description: |
+    <div class="row p-4 border rounded">
+      <div class="col-md-12">
+        <h5 class="text-dark">Publications</h5>
+      </div>
+      <ul>
+        <li>Scott Morgan & Christopher Davies, Linear stability analysis of steady and temporally periodic flow configurations using a velocity-vorticity formulation, <em>(in draft)</em></li>
+        <li>Scott Morgan & Christopher Davies, Stability of rotating disk boundary layers with a periodically modulated rotation rate, <em>(in draft)</em></li>
+      </ul>
+    </div>
+    <div class="p-4 border rounded">
+      <h5 class="text-dark">Awards &amp; Achievements</h5>
+      <div class="row">
+        <div class="col-md-4 vdivide text-center">
+          Recognition for Outstanding Contribution
+        </div>
+        <div class="col-md-4 vdivide text-center">
+          SIAM
+        </div>
+        <div class="col-md-4 vdivide text-center">        
+          2017
+        </div>
+      </div>
+    </div>
+    <div class="p-4 border rounded vdivide">
+      <h5 class="text-dark">Funding</h5>
+      <div class="row vdivide">
+        <div class="col-md-4 text-center">
+          EPSRC Postgraduate Research Studentship
+        </div>
+        <div class="col-md-4 text-center">
+          £13,863 p/a
+        </div>
+        <div class="col-md-4 text-center">
+          2014 - 2018
+        </div>
+      </div>
+    </div>
+    <div class="p-4 border rounded vdivide">
+      <h5 class="text-dark">Funding</h5>
+      {% for fundingitem in site.data.funding %}
+        <div class="row vdivide">
+          <div class="col-md-4 text-center">
+            {{ fundingitem.title }}
+          </div>
+          <div class="col-md-4 text-center">
+            {{ fundingitem.value }}
+          </div>
+          <div class="col-md-4 text-center">
+            {{ fundingitem.year }}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+ 
