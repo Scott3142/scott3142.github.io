@@ -10,8 +10,11 @@ permalink: "/career"
   <div class="row gap-y listrecent listrecent listauthor">
       <div class="col-lg-12 col-md-12 mb-4">
         <div class="p-4 border rounded">
-          <h4 class="text-dark mb-0"> Bridgend College </h4>
-          <div class="d-inline-block mt-1 mb-3 font-weight-normal">2018 - Present</div>
+          <h4 class="text-dark mb-0"> Bridgend College </h4><br>
+          <div class="col-md-12 border rounded d-inline-block mt-1 mb-3 pt-2 pb-2 font-weight-normal">
+            Digital Lead (2018 - Present)<br>
+            Lecturer (2016 - 2018)<br>
+          </div>
           <div class="p-4 border rounded vdivide">
             <h5 class="text-dark">Publications</h5><br>
             {% for pubsitem in site.data.bc-publications %}
@@ -61,8 +64,14 @@ permalink: "/career"
   <div class="row gap-y listrecent listrecent listauthor">
       <div class="col-lg-12 col-md-12 mb-4">
         <div class="p-4 border rounded">
-          <h4 class="text-dark mb-0"> Cardiff University </h4>
-          <div class="d-inline-block mt-1 mb-3 font-weight-normal">2010 - 2018</div>
+          <h4 class="text-dark mb-0"> Cardiff University </h4><br>
+          <div class="col-md-12 border rounded d-inline-block mt-1 mb-3 pt-2 pb-2 font-weight-normal">
+            Associate Lecturer (2018)<br>
+            STEM Engagement Officer (2018)<br>
+            PhD Student (2014 - 2018)<br>
+            Masters Student (2013 - 2014)<br>
+            Undergraduate Student (2010 - 2013)                
+          </div>
           <div class="p-4 border rounded vdivide">
             <h5 class="text-dark">Publications</h5><br>
             {% for pubsitem in site.data.cu-publications %}

@@ -13,17 +13,17 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
 authors:
     scott:
       name:           Scott
       site:           https://scott3142.uk
-      avatar:         assets/images/author.jpg
+      avatar:         assets/images/author-cropped.jpg
       bio:            "Hi, I'm Scott. Insert some stuff here."
       email:          smorgan@bridgend.ac.uk
       twitter:        https://twitter.com/Scott3142
@@ -38,13 +38,13 @@ defaults:
       layout: post
       author: sal
       avatar: /assets/images/avatar1.jpg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge

@@ -1,7 +1,7 @@
 ---
 title: Teaching
 layout: default
-permalink: /teaching/
+permalink: /teaching_old/
 
 hero: I have a passion for education and firmly believe that teaching is one of the world's most important professions. I have experience teaching at all levels of education from primary school through to University and I am always interested in novel teaching methods and practises. Additionally I am also a fully qualified Tang Soo Do Karate Instructor, and have over 5 years experience in teaching and coaching martial arts.
 ---

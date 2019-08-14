@@ -1,23 +1,25 @@
 - title: Research
   url: /research
-  image: /assets/images/author.jpg
+  image: /assets/images/function.png
   description: |
-    Insert description here.
+    My research interests span fluid dynamics, computational modelling and mechanisms for flow transition to turbulence. I have passing interests in all types of computational modelling, in particular relating to mathematical modelling of biological materials and processes. <br><br>
+
+    More recently I have been involved in research relating to human computer interaction and novel methods for STEM education.
 
 - title: Science Engagement
   url: /scicomm
-  image: /assets/images/author.jpg
+  image: /assets/images/test.png
   description: |
-    Insert description here.
+    I am regularly involved in schools engagement and science communication events around the South Wales area. If you are interested in finding out more about my outreach work, please get in touch!
 
 - title: Teaching
   url: /teaching
-  image: /assets/images/author.jpg
+  image: /assets/images/mathematics.png
   description: |
-    Insert description here.
+    I have a passion for education and firmly believe that teaching is one of the world's most important professions. I have experience teaching at all levels of education from primary school through to University and I am always interested in novel teaching methods and practises. Additionally I am also a fully qualified Tang Soo Do Karate Instructor, and have over 5 years experience in teaching and coaching martial arts.
 
 - title: Digital at Bridgend College
   url: /digital
-  image: /assets/images/author.jpg
+  image: /assets/images/laptop.png
   description: |
-    Insert description here.
+    I am Digital Lead at Bridgend College, responsible for technology enhanced teaching and learning. I am always interested in novel methods for education and I take a lead role in staff and student development across curriculum areas. If you are interested in collaborations or finding out more, please get in touch!
