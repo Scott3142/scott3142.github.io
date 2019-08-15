@@ -9,8 +9,9 @@ permalink: "/career"
 
   <div class="row gap-y listrecent listrecent listauthor">
       <div class="col-lg-12 col-md-12 mb-4">
-        <div class="p-4 border rounded">
-          <h4 class="text-dark mb-0"> Bridgend College </h4><br>
+        <div class="p-4 border rounded row">
+          <div class="col-md-2 col-sm-3 mb-4 mb-md-0"><a href="{{ projectlink.url }}"><img href="#" alt="Bridgend College Logo" src="/assets/images/bclogo-circle.png" class="rounded-circle" height="80" width="80"></a></div>
+          <div class="col-md-6 col-sm-6 mb-4 mb-md-0"><h4 class="text-dark mb-0 pt-4"> Bridgend College </h4><br></div>
           <div class="col-md-12 border rounded d-inline-block mt-1 mb-3 pt-2 pb-2 font-weight-normal">
             Digital Lead (2018 - Present)<br>
             Lecturer (2016 - 2018)<br>
@@ -63,8 +64,9 @@ permalink: "/career"
 
   <div class="row gap-y listrecent listrecent listauthor">
       <div class="col-lg-12 col-md-12 mb-4">
-        <div class="p-4 border rounded">
-          <h4 class="text-dark mb-0"> Cardiff University </h4><br>
+        <div class="p-4 border rounded row">
+          <div class="col-md-2 col-sm-3 mb-4 mb-md-0"><a href="{{ projectlink.url }}"><img href="#" alt="Cardiff University Logo" src="/assets/images/culogo.png" class="rounded-circle" height="80" width="80"></a></div>
+          <div class="col-md-6 sol-sm-6 mb-4 mb-md-0"><h4 class="text-dark mb-0 pt-4"> Cardiff University </h4><br></div>
           <div class="col-md-12 border rounded d-inline-block mt-1 mb-3 pt-2 pb-2 font-weight-normal">
             Associate Lecturer (2018)<br>
             STEM Engagement Officer (2018)<br>

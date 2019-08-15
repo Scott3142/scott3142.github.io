@@ -21,10 +21,10 @@ plugins:
 
 authors:
     scott:
-      name:           Scott
+      name:           Scott Morgan
       site:           https://scott3142.uk
       avatar:         assets/images/author-cropped.jpg
-      bio:            "Hi, I'm Scott. Insert some stuff here."
+      bio:            "Digital Lead at Bridgend College.<br> PhD in Mathematics.<br> Interested in education, coding and all things tech."
       email:          smorgan@bridgend.ac.uk
       twitter:        https://twitter.com/Scott3142
 
