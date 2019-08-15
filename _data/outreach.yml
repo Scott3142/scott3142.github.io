@@ -1,0 +1,116 @@
+projects:
+
+  - title: Giant Genes
+    institution: Cardiff University
+    year: 2018
+    description: |
+      This workshop looks at how brain diseases are caused and what research is currently underway to try and treat them. The students learned which parts of the brain control different actions, made genes and had a go at playing with giant genetic blocks!
+    partners: Dr. Emma Yhnell (Workshop Lead) | <a href="https://twitter.com/EmmaYhnell">@EmmaYhnell</a>
+
+  - title: Step Up Masterclasses
+    institution: Cardiff University
+    year: 2018
+    extra: '| <a href="https://www.cardiff.ac.uk/about/our-profile/who-we-are/university-for-all/raising-aspirations/step-up-programme" target="_blank">Site</a>'
+    description: |
+      A Cardiff University workshop scheme aimed at inspiring secondary school students from traditionally disadvantaged areas to attend university. The workshops bridge several of the physical sciences including mathematics, computer science, engineering and chemistry. During the sessions, the students built and programmed a Lego spectrophotometer, carried out an experiment and analysed the data using a Raspberry Pi and a simple circuit.
+    partners: <a href="https://www.cardiff.ac.uk">Cardiff University</a>
+
+  - title: Full STEAM Ahead
+    institution: Cardiff University
+    year: 2018
+    extra: '| <a href="http://www.cardiff.ac.uk/news/view/1220809-nurturing-a-love-of-science" target="_blank">News Article</a>'
+    description: |
+      Some 100 school and college students took part in hands-on activities at Cardiff University designed to nurture their interest in science.
+
+      Students and staff from Caerleon Comprehensive School near Newport and Bridgend College joined in workshops from 3D printing to DIY brain surgery on jelly.
+    partners: <a href="https://twitter.com/smllmn">Luke Smallman</a>, <a href="https://twitter.com/DannyGrovesN7">Danny Groves</a>, <a href="https://twitter.com/EmmaYhnell">Dr. Emma Yhnell</a>, <a href="https://twitter.com/NikoletaGlyn">Nikoleta Glynatsi</a>, <a href="http://alexsafar.com/">Alex Safar</a>, <a href="https://www1.bridgend.ac.uk/">Bridgend College</a>, <a href="http://www.caerleoncomprehensive.net/">Caerleon Comprehensive School</a>, <a href="http://www.emotion-robotics.com/">Emotion Robotics</a>, <a href="https://www.lms.ac.uk/">London Mathematical Society</a>, <a href="https://www.cardiff.ac.uk">Cardiff University</a>
+
+  - title: Scholars Programme Tutor
+    institution: The Brilliant Club
+    year: 2018
+    description: |
+      Developed and ran short courses in Mathematics and Engineering aimed at KS3 and KS4 students from traditionally disadvantaged backgrounds.
+    partners: <a href="https://thebrilliantclub.org/">The Brilliant Club</a>
+
+  - title: Primary Coding
+    institution: First Campus
+    year: 2018
+    description: |
+      This project enables primary school students to learn to code in a fun, engaging atmosphere using the BBC Micro:bit. The project involves designing, creating and coding a wearable product which plays rock, paper scissors when the user shakes the device.
+    partners: <a href="https://www.firstcampus.org/">First Campus</a>, <a href="https://www.cardiff.ac.uk">Cardiff University</a>
+
+  - title: <em>SMILE Pi &amp; Mash</em> Computing for Schools Event
+    institution: Bridgend College
+    year: 2017-2018
+    extra: '| <a href="/SMILE-Pi-and-Mash/">Blog</a>'
+    description: |
+      The follow-up to the SMILE Technology Workshops, this event sees over 500 children from 10 primary schools attend Bridgend College for a day of workshops and science shows based around digital technology.
+    partners: <a href="https://www1.bridgend.ac.uk/">Bridgend College</a>, <a href="https://www.cardiff.ac.uk">Cardiff University</a>
+
+  - title: Brain Games
+    institution: Cardiff University
+    year: 2018
+    extra: '| <a href="http://sites.cardiff.ac.uk/cubric/3200-visitors-to-the-cardiff-university-brain-games/" target="_blank">Site</a>'
+    description: |
+      Several STEM Ambassadors from the School of Maths assisted in the on-the-day running of one the main one-day engagement projects run by Cardiff University. I was involved in the coordination of the STEM Ambassadors, the organisation of the event prior to the day and in collaboration with Joe Bishop, created ‘feedback collecting’ boxes which were utilised to collect data from participants in the day.
+    partners: <a href="https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre/events/brain-games">Brain Games (Cardiff University)</a>, <a href="https://twitter.com/R_J_Bishop">Joe Bishop</a>
+
+  - title: Science Week Technology Exhibition
+    institution: Welsh Government
+    year: 2018
+    description: |
+      We (Cardiff University and Bridgend College) were invited to be the sole exhibitors at a science week event held at the Cathays campus of Welsh Government. Showcasing robotics and digital technologies, we built links with policy makers at the highest level of education and are subsequently working closely in collaboration with the Ser Cymru team.
+    partners: <a href="https://www1.bridgend.ac.uk/">Bridgend College</a>, <a href="https://gov.wales/topics/science-and-technology/csaw/?lang=en">Welsh Government</a>, <a href="https://www.cardiff.ac.uk">Cardiff University</a>
+
+  - title: SMILE Techonology Workshops
+    institution: Bridgend College
+    year: 2017-2018
+    extra: '| <a href="/SMILE-Technology-Workshops/">Blog</a>'
+    description: |
+      The format of this week is to engage over 500 Year 5 and 6 children from 10 local primary schools with emerging technologies and robotics. We use Raspberry Pis, LEGO Mindstorms and Makey Makey to deliver a range of sessions based at giving the children a taste of these fun and interesting technologies.
+    partners: <a href="https://www1.bridgend.ac.uk/">Bridgend College</a>, <a href="https://www.cardiff.ac.uk">Cardiff University</a>
+
+  - title: Introduction to Computing Workshops
+    institution: Caerphilly Scouts Group, Croesty Primary School, Olveston Primary School
+    year: 2017-2018
+    description: |
+      These workshops enable primary school children to learn to code in a fun, engaging atmosphere using the BBC Micro:bit and Raspberry Pi. The projects involve physical computing, wearable devices, programming, artificial intelligence and robotics.
+    partners: <a href="http://www.croestyprimaryschool.co.uk/news/detail/website-launched/">Croesty Primary School</a>, <a href="http://www.olvestonschool.co.uk/">Olveston Primary School</a>, <a href="http://www.midglamscouts.co.uk/crai%20scout%20district.htm">Caerphilly Scouts Group</a>
+
+  - title: Full STEAM Ahead
+    institution: Cardiff University
+    year: 2017
+    extra: '| <a href="/Full-STEAM-Ahead/">Blog</a>'
+    description: |
+      On June 28th 2017, the Cardiff SIAM-IMA Student Chapter organised the one-day ‘Full STEAM Ahead’ event, open to secondary school and FE College students, PhD students and staff. The event consisted of three workshops aimed at inspiring students to engage in STEM subjects, and opened with a short address by Sian Ashton of the STEM Ambassador scheme. The workshops were 3D printing (Alex Safar), Raspberry Pi (Luke Smallman) and Robotics (Emotion robotics) with an article published in Mathematics Today.
+    partners: <a href="https://twitter.com/smllmn">Luke Smallman</a>, <a href="https://twitter.com/DannyGrovesN7">Danny Groves</a>, <a href="https://twitter.com/NikoletaGlyn">Nikoleta Glynatsi</a>, <a href="http://alexsafar.com/">Alex Safar</a>, <a href="https://www1.bridgend.ac.uk/">Bridgend College</a>, <a href="http://www.emotion-robotics.com/">Emotion Robotics</a>, <a href="https://www.cardiff.ac.uk">Cardiff University</a>, <a href="https://www.stem.org.uk/stem-ambassadors">STEM Ambassadors Scheme</a>
+
+  - title: Bridgend College Computing Taster Sessions
+    institution: Urdd Eisteddfod
+    year: 2017
+    extra: '| <a href="/Urdd-Eisteddfod/">Blog</a>'
+    description: |
+      Showcasing Bridgend College's offering at the Urdd Eisteddfod, this event involved stalls relating to robotics, Raspberry Pi and other ermerging digital technologies.
+    partners: <a href="https://www1.bridgend.ac.uk/">Bridgend College</a>, <a href="https://www.cardiff.ac.uk">Cardiff University</a>
+
+contributions:
+
+  - title: Community Engagement Officer
+    institution: British Science Association
+    year: 2018 - Present
+
+  - title: Scholars Programme Tutor
+    institution: Brilliant Club
+    year: 2018
+
+  - title: STEM Engagement Officer
+    institution: First Campus &amp; Cardiff University
+    year: 2018
+
+  - title: STEM Ambassador
+    institution: Cardiff University
+    year: 2017 - Present
+
+  - title: Cardiff SIAM-IMA Student Chapter President
+    institution: Cardiff University
+    year: 2015 - 2017

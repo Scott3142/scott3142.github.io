@@ -18,7 +18,7 @@ permalink: "/career"
           </div>
           <div class="p-4 border rounded vdivide">
             <h5 class="text-dark">Publications</h5><br>
-            {% for pubsitem in site.data.bc-publications %}
+            {% for pubsitem in site.data.publications.bc %}
               <div class="row vdivide gap-y border rounded">
                 <div class="col-md-12">
                 {{ pubsitem.authors }}, {{ pubsitem.title }}| <em>{{ pubsitem.journal }}</em> {% if pubsitem.url %} | <a href="{{ pubsitem.url }}" target="blank">{{ pubsitem.url }}</a>{% endif %}
@@ -28,7 +28,7 @@ permalink: "/career"
           </div>
           <div class="p-4 border rounded vdivide">
             <h5 class="text-dark">Awards &amp; Achievements</h5><br>
-            {% for awarditem in site.data.bc-awards %}
+            {% for awarditem in site.data.awards.bc %}
               <div class="row vdivide gap-y border rounded">
                 <div class="col-md-4 text-center">
                   {{ awarditem.title }}
@@ -44,7 +44,7 @@ permalink: "/career"
           </div>
           <div class="p-4 border rounded vdivide">
             <h5 class="text-dark">Conferences &amp; Workshops</h5><br>
-            {% for conferenceitem in site.data.bc-conferences %}
+            {% for conferenceitem in site.data.conferences.bc %}
               <div class="row vdivide gap-y border rounded">
                 <div class="col-md-4 text-center">
                   {{ conferenceitem.title }}
@@ -76,7 +76,7 @@ permalink: "/career"
           </div>
           <div class="p-4 border rounded vdivide">
             <h5 class="text-dark">Publications</h5><br>
-            {% for pubsitem in site.data.cu-publications %}
+            {% for pubsitem in site.data.publications.cu %}
               <div class="row vdivide gap-y border rounded">
                 <div class="col-md-12">
                 {{ pubsitem.authors }}, {{ pubsitem.title }}| <em>{{ pubsitem.journal }}</em> {% if pubsitem.url %} | <a href="{{ pubsitem.url }}" target="blank">{{ pubsitem.url }}</a>{% endif %}
@@ -87,7 +87,7 @@ permalink: "/career"
 
           <div class="p-4 border rounded">
             <h5 class="text-dark">Awards &amp; Achievements</h5><br>
-            {% for awarditem in site.data.cu-awards %}
+            {% for awarditem in site.data.awards.cu %}
               <div class="row vdivide gap-y border rounded">
                 <div class="col-md-4 text-center">
                   {{ awarditem.title }}
@@ -103,7 +103,7 @@ permalink: "/career"
           </div>
           <div class="p-4 border rounded">
             <h5 class="text-dark">Funding</h5><br>
-            {% for fundingitem in site.data.cu-funding %}
+            {% for fundingitem in site.data.funding.cu %}
               <div class="row vdivide gap-y border rounded">
                 <div class="col-md-4 text-center">
                   {{ fundingitem.title }}
@@ -119,7 +119,7 @@ permalink: "/career"
           </div>
           <div class="p-4 border rounded">
             <h5 class="text-dark">Conferences</h5><br>
-            {% for conferenceitem in site.data.cu-conferences %}
+            {% for conferenceitem in site.data.conferences.cu %}
               <div class="row vdivide gap-y border rounded">
                 <div class="col-md-4 text-center">
                   {{ conferenceitem.title }}
