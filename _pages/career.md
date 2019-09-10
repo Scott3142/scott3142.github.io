@@ -21,7 +21,7 @@ permalink: "/career"
             {% for pubsitem in site.data.publications.bc %}
               <div class="row vdivide gap-y border rounded">
                 <div class="col-md-12">
-                {{ pubsitem.authors }}, {{ pubsitem.title }}| <em>{{ pubsitem.journal }}</em> {% if pubsitem.url %} | <a href="{{ pubsitem.url }}" target="blank">{{ pubsitem.url }}</a>{% endif %}
+                {{ pubsitem.authors }}, {{ pubsitem.title }} ({{ pubsitem.year }}) | <em>{{ pubsitem.journal }}</em> {% if pubsitem.url %} | <a href="{{ pubsitem.url }}" target="blank">{{ pubsitem.url }}</a>{% endif %}
                 </div>
               </div>
             {% endfor %}
@@ -79,7 +79,7 @@ permalink: "/career"
             {% for pubsitem in site.data.publications.cu %}
               <div class="row vdivide gap-y border rounded">
                 <div class="col-md-12">
-                {{ pubsitem.authors }}, {{ pubsitem.title }}| <em>{{ pubsitem.journal }}</em> {% if pubsitem.url %} | <a href="{{ pubsitem.url }}" target="blank">{{ pubsitem.url }}</a>{% endif %}
+                {{ pubsitem.authors }}, {{ pubsitem.title }} ({{ pubsitem.year }}) | <em>{{ pubsitem.journal }}</em> {% if pubsitem.url %} | <a href="{{ pubsitem.url }}" target="blank">{{ pubsitem.url }}</a>{% endif %}
                 </div>
               </div>
             {% endfor %}
