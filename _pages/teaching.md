@@ -1,64 +1,56 @@
 ---
-title: Teaching
+title: "Teaching"
 layout: default
-permalink: /teaching/
-
-hero: I have a passion for education and firmly believe that teaching is one of the world's most important professions. I have experience teaching at all levels of education from primary school through to University and I am always interested in novel teaching methods and practises. Additionally I am also a fully qualified Tang Soo Do Karate Instructor, and have over 5 years experience in teaching and coaching martial arts.
+permalink: "/teaching"
 ---
 
-<p>{{ page.hero }}</p><br>
+<div class="container">
+  <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
 
-<p>{{ site.cvlink }}</p>
-<br>
-
-<center><h4>Courses</h4><br></center>
-<ul>
-  <!--<h5>Current</h5><br/>
-  <ul>
-    {% for currentCourse in site.data.courses.current %}
-      <li><center><a href ="{{ currentCourse.url }}" class="btn btn-ghost">{{ currentCourse.title }} | <em>{{ currentCourse.institution }}</em></a></center></li><br/>
-    {% endfor %}
-  </ul>-->
-
-  <!--<h5>Previous</h5>-->
-  <ul>
-    {% for previousCourse in site.data.courses.previous %}
-      <li>{{ previousCourse.title }} | <em>{{ previousCourse.institution }}</em> {% if previousCourse.url %} | <a href="{{ previousCourse.url }}"><em>Course Page</em></a>{% endif %}</li>
-    {% endfor %}
-  </ul>
-</ul>
-
-<br/><br>
-
-<center><h4>Teaching Experience</h4></center><br>
-<ul>
-  {% for job in site.data.teaching_experience %}
-
-    <style> #more{{ forloop.index }} { display:none; }</style>
-
-    <li><b style="font-weight:bold;">{{ job.title }}</b> | <em>{{ job.institution }} {{ job.year }}</em>
-
-    <br><a onclick="readMore{{ forloop.index }}()" id="readMoreLink{{ forloop.index }}">More info...</a></li><br>
-
-    <span id="more{{ forloop.index }}">
-      <ul><br>
-        <li><em>{{ job.description }}</em></li><br/>
-      </ul>
-    </span>
-
-    <script>
-      function readMore{{ forloop.index }}() {
-        var moreText = document.getElementById("more{{ forloop.index }}");
-        var linkText = document.getElementById("readMoreLink{{ forloop.index }}");
-
-        if (linkText.innerHTML === "More info...") {
-          linkText.innerHTML = "Collapse";
-          moreText.style.display = "inline";
-        } else {
-          linkText.innerHTML = "More info...";
-          moreText.style.display = "none";
-        }
-      }
-    </script>
-  {% endfor %}
-</ul>
+  <div class="row gap-y listrecent listrecent listauthor">
+    <div class="col-lg-12 col-md-12 mb-4">
+      <div class="p-4 border rounded">
+        <h4 class="text-dark mb-0"> Courses </h4><br>
+        <div class="p-4 border rounded vdivide">
+          {% for courseitem in site.data.courses.previous %}
+            <div class="row vdivide gap-y border rounded">
+              <div class="col-md-6 text-center">
+                {% if courseitem.url %}
+                  <a href="{{ courseitem.url}}">{{ courseitem.title }}</a>
+                {% else %}
+                  {{ courseitem.title }}
+                {% endif %}
+              </div>
+              <div class="col-md-6 text-center">
+                {{ courseitem.institution }}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="p-4 border rounded">
+        <h4 class="text-dark mb-0"> Teaching Experience </h4><br>
+        <div class="p-4 border rounded vdivide">
+          {% for teachingitem in site.data.teaching_experience %}
+            <div class="row vdivide gap-y border rounded">
+              <div class="col-md-4 text-center">
+                {{ teachingitem.title }}
+              </div>
+              <div class="col-md-4 text-center">
+                {{ teachingitem.year }}
+              </div>
+              <div class="col-md-4 text-center">
+                {{ teachingitem.institution }}
+              </div>
+             </div>
+             <div class="row gap-y border rounded">
+              <div class="col-md-12 mb-5">
+                {{ teachingitem.description }}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

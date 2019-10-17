@@ -1,20 +1,25 @@
-- title: PhD Thesis
-  institution: Cardiff University
-  year: (2014 - 2018) | <a href="http://orca.cf.ac.uk/117083/1/2018morgansnphd.pdf" target="_blank">pdf</a>
+- title: Research
+  url: /research
+  image: /assets/images/function.png
   description: |
-    <em>Supervisor - <a href="https://www.cardiff.ac.uk/people/view/98638-davies-chris" target="_blank">Dr. Chris Davies</a><br>
-    To investigate the stabilising effects of adding modulation to a rotating disk boundary layer.</em>
+    My research interests span fluid dynamics, computational modelling and mechanisms for flow transition to turbulence. I have passing interests in all types of computational modelling, in particular relating to mathematical modelling of biological materials and processes. <br><br>
 
-- title: MMath Thesis
-  institution: Cardiff University
-  year: (2010 - 2014)
-  description: |
-    <em>Supervisor - <a href="https://www.cardiff.ac.uk/people/view/98638-davies-chris" target="_blank">Dr. Chris Davies</a><br>
-    To investigate the connection between the local and global stability analyses of an oscillatory Stokes layer.</em>
+    More recently I have been involved in research relating to human computer interaction and novel methods for STEM education.
 
-- title: Undergraduate Project - <a href="https://www.cardiff.ac.uk/study/undergraduate/why-study-with-us/leaders-in-research/research-opportunities" target="_blank">CUROP</a>
-  institution: Cardiff University
-  year: (2009)
+- title: Science Engagement
+  url: /scicomm
+  image: /assets/images/test.png
   description: |
-    <em>Supervisor - <a href="https://www.cardiff.ac.uk/people/view/98638-davies-chris" target="_blank">Dr. Chris Davies</a><br>
-    To develop an efficient numerical algorithm for solving a system of nonlinear time-dependent differential equations.</em>
+    I am regularly involved in schools engagement and science communication events around the South Wales area. If you are interested in finding out more about my outreach work, please get in touch!
+
+- title: Teaching
+  url: /teaching
+  image: /assets/images/mathematics.png
+  description: |
+    I have a passion for education and firmly believe that teaching is one of the world's most important professions. I have experience teaching at all levels of education from primary school through to University and I am always interested in novel teaching methods and practises.
+
+- title: Digital at Bridgend College
+  url: http://den01.co.uk
+  image: /assets/images/laptop.png
+  description: |
+    I am Digital Lead at Bridgend College, responsible for technology enhanced teaching and learning. I am always interested in novel methods for education and I take a lead role in staff and student development across curriculum areas. If you are interested in collaborations or finding out more, please get in touch!

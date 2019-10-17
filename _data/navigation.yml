@@ -1,17 +1,11 @@
-- title: research
-  url: /research/
+- title: Home
+  url: /
 
-- title: outreach
-  url: /outreach/
+- title: Projects
+  url: /projects
 
-- title: teaching
-  url: /teaching/
+- title: Career
+  url: /career
 
-- title: about
-  url: /about/
-
-#- title: blog
-#  url: /blog/
-
-- title: contact
-  url: /contact/
+- title: Contact
+  url: /contact

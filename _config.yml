@@ -1,11 +1,56 @@
-title: Scott Morgan
-name: Personal Website of Scott Morgan
-homepage: /index.html
-cvlink: CV | <a href="/cv/cv.pdf" target="_blank">pdf</a>
+# Site
+name: 'Scott Morgan'
+description: 'Personal site of Scott Morgan. Digital Lead at Bridgend College. Pages and blog about research based education, coding and technology. '
+logo: 'assets/images/author.jpg'
+#favicon: 'assets/images/favicon.ico'
+#baseurl: '/mundana-theme-jekyll'
+baseurl: ''
+#disqus: 'demowebsite'
+email: 'smorgan@bridgend.ac.uk'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
 
+# Plugins
 plugins:
-  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-seo-tag
+
+authors:
+    scott:
+      name:           Scott Morgan
+      site:           https://scott3142.uk
+      avatar:         assets/images/author-cropped.jpg
+      bio:            "Digital Lead at Bridgend College.<br> PhD in Mathematics.<br> Interested in education, coding and all things tech."
+      email:          smorgan@bridgend.ac.uk
+      twitter:        https://twitter.com/Scott3142
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: scott
+      avatar: /assets/images/author-cropped.jpg
+
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
