@@ -29,6 +29,22 @@ permalink: /index.html
                   <a target="_blank" href="mailto:{{ author[1].email }}"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a> &nbsp;
                 </div>
               </div>
+              <style> #disclaimerHidden { display:none; }</style>
+              <div class="excerpt">
+                <a href="#disclaimerHidden" onclick="readMoreDisclaimer()" id="disclaimerVisible">Disclaimer</a>
+                <span id="disclaimerHidden">
+                  Any views expressed in these pages are those of the author and do not necessarily represent the views of any third parties or organisations.
+                </span>
+              </div>
+              <script>
+                function readMoreDisclaimer() {
+                  var moreText = document.getElementById("disclaimerHidden");
+                  var lessText = document.getElementById("disclaimerVisible");
+
+                  moreText.style.display = "block";
+                  lessText.style.display = "none";
+                }
+              </script>
             </div>
           </div>
         </div>

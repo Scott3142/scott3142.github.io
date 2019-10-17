@@ -4,23 +4,23 @@ previous:
 
 - title: Introduction to Programming
   institution: Cardiff University
-  url: /programming/
+  #url: /programming/
 
 - title: Step-up Masterclasses
   institution: Cardiff University
-  url: /stepup/
+  #url: /stepup/
 
 - title: Website Design &amp; Development
   institution: Bridgend College
-  url: /hnc/
+  #url: /hnc/
 
 - title: A-Level Further Mathematics
   institution: FMSP
-  url: /fmsp/
+  #url: /fmsp/
 
 - title: Introduction to Matlab
   institution: Cardiff University
-  url: /ugmatlab/
+  #url: /ugmatlab/
 
 # - title: BTEC First Diploma - Level 2
 #   institution: Bridgend College
