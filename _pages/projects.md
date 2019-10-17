@@ -16,7 +16,7 @@ permalink: "/projects"
           <div class="row">
             <div class="col-md-3 mb-4 mb-md-0"><a href="{{ projectlink.url }}"><img href="{{ projectlink.url }}" alt="{{ projectlink.title }}" src="{{ projectlink.image }}" class="rounded-circle" height="80" width="80"></a></div>
             <div class="col-md-9">
-              <a href="{{ projectlink.url }}">
+              <a href="{{ projectlink.url }}" {% if projectlink.url contains 'http' %} target="blank" {% endif %}>
                 <h4 class="text-dark mb-0"> {{ projectlink.title }} </h4>  
                 <div class="excerpt mb-2" id="less{{ forloop.index }}">
                   {{ projectlink.description | slice: 0, 100 }}...                  
