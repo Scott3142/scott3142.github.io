@@ -4,6 +4,7 @@ title:  "A College for the Future"
 author: scott
 tags: featured
 categories: [ Digital ]
+published: false
 #image: assets/images/author.jpg
 ---
 
