@@ -6,12 +6,6 @@ bc:
     year: 2019
     journal: 17th IFIP TC.13 International Conference on Human-Computer Interaction
 
-  - authors: <strong>S. Morgan, A. Randle, R. Coombs, E. Yhnell</strong>
-    title: |
-      Giant Genes! The development of an interactive game to engage audiences in genetics
-    year: 2019
-    journal: (in draft)
-
 cu:
 
   - authors: <strong>S. Morgan &amp; C. Davies</strong>
@@ -33,3 +27,9 @@ cu:
     journal: PhD Thesis
     year: 2019
     url: http://orca.cf.ac.uk/117083/
+
+  - authors: <strong>S. Morgan, A. Randle, R. Coombs, E. Yhnell</strong>
+    title: |
+      Giant Genes! The development of an interactive game to engage audiences in genetics
+    year: 2019
+    journal: (in draft)
