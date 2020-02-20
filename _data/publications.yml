@@ -18,7 +18,8 @@ cu:
     title: |
       Linear stability eigenmodal analysis for steady and temporally periodic boundary-layerflow configurations using a velocity-vorticity formulation
     year: 2020
-    journal: Journal of Computational Physics | <a href="https://doi.org/10.1016/j.jcp.2020.109325">Link</a>
+    journal: Journal of Computational Physics
+    url: https://doi.org/10.1016/j.jcp.2020.109325
 
   - authors: <strong>S. Morgan &amp; C. Davies</strong>
     title: |
