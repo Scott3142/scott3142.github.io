@@ -15,6 +15,7 @@ published: true
 - School of Mathematics, Cardiff University, Senghennydd Road, Cardiff, CF24 4AG, UK
 - [https://doi.org/10.1016/j.jcp.2020.109325](https://doi.org/10.1016/j.jcp.2020.109325)
 
+
 **Abstract**
 
 A novel solution procedure is presented for undertaking the linear stability eigenmodal analysis of two and three dimensional steady and time-periodic boundary-layer flow configurations. A velocity-vorticity formulation of the governing equations is deployed, together with a numerical discretisation that utilises a version of the Chebyshev-tau method. The required linear operators are applied in an integrated form to the Chebyshev series representations, instead of the more commonly used differential form. No-slip conditions are imposed in a fully consistent manner using integral constraints on the vorticity. The chosen numerical methods culminate in matrix equations which can be constructed in a relatively simple manner. These are then solved using the eigenvalue routines available in standard software libraries for linear algebra.
