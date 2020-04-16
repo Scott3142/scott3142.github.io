@@ -2,7 +2,6 @@
 layout: post
 title:  "New Publication"
 author: scott
-tags: featured
 categories: [ Research ]
 published: true
 #image: assets/images/author.jpg
