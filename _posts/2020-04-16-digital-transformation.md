@@ -23,4 +23,4 @@ Technology provides opportunities to achieve experiences that would have simply 
 
 Colleges should lead the way in flexible, responsible working and set the example for businesses to follow. Our goal after all is to produce learners who are happy and can meaningfully contribute to society. That will be achieved by engaging them while co-developing technological solutions that enable all members of the College to function to their highest potential.
 
-### Published as a guest blog on [AspirEd](https://aspired.online/guest-blog/)
+**Published as a guest blog on [AspirEd](https://aspired.online/guest-blog/)**
