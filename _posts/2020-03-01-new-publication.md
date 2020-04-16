@@ -15,7 +15,7 @@ published: true
 - School of Mathematics, Cardiff University, Senghennydd Road, Cardiff, CF24 4AG, UK
 - [https://doi.org/10.1016/j.jcp.2020.109325](https://doi.org/10.1016/j.jcp.2020.109325)
 
-<br><br>
+<br>
 
 **Abstract**
 
