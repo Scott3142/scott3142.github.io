@@ -9,13 +9,13 @@ published: true
 
 ### Linear stability eigenmodal analysis for steady and temporally periodic boundary-layer flow configurations using a velocity-vorticity formulation
 
-<br>
+<br><br>
 
 - Scott Morgan &amp; Christopher Davies
 - School of Mathematics, Cardiff University, Senghennydd Road, Cardiff, CF24 4AG, UK
 - [https://doi.org/10.1016/j.jcp.2020.109325](https://doi.org/10.1016/j.jcp.2020.109325)
 
-<br>
+<br><br>
 
 **Abstract**
 
