@@ -1,0 +1,277 @@
+I"�#<div class="container">
+
+  <h4 class="font-weight-bold spanborder"><span>About</span></h4>
+  <div class="row gap-y listrecent listrecent listauthor">
+	  
+      <div class="col-lg-12 mb-4">
+        <div class="p-4 border rounded">
+          <div class="row">
+          <div class="text-center col-md-3 mb-4 mb-md-0"><img alt="Scott Morgan" src="/assets/images/author-cropped.jpg" class="rounded-circle" height="150" width="150" /></div>
+            <div class="col-md-9">
+              <!--<a href="/author-scott-morgan">-->
+                <h4 class="text-dark mb-0"> Scott Morgan </h4>
+                <!--<small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>-->
+                <div class="excerpt">Digital Lead at Bridgend College.<br /> PhD in Mathematics.<br /> Interested in education, coding and all things tech.</div>
+              <!--</a>-->
+              <div class="icon-block mt-3 d-flex justify-content-between">
+                <div>
+                  <a target="_blank" href="https://twitter.com/Scott3142"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+                  <a target="_blank" href="mailto:smorgan@bridgend.ac.uk"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a> &nbsp;
+                </div>
+              </div>
+              <style> #disclaimerHidden { display:none; }</style>
+              <div class="excerpt">
+                <a href="#disclaimerHidden" onclick="readMoreDisclaimer()" id="disclaimerVisible">Disclaimer</a>
+                <span id="disclaimerHidden">
+                  Any views expressed in these pages are those of the author and do not necessarily represent the views of any third parties or organisations.
+                </span>
+              </div>
+              <script>
+                function readMoreDisclaimer() {
+                  var moreText = document.getElementById("disclaimerHidden");
+                  var lessText = document.getElementById("disclaimerVisible");
+
+                  moreText.style.display = "block";
+                  lessText.style.display = "none";
+                }
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+  </div>
+
+ <!--endif page url is / -->
+
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+
+<div class="row mt-3">
+
+    <div class="col-md-8 main-loop">
+
+        <h4 class="font-weight-bold spanborder"><span>All Posts</span></h4>
+
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/new-resource-python/">New Resource - Python Programming</a>
+	</h2>
+	<p class="excerpt">
+	   During this course, you will learn the basics of computer programming, along with algorithms and object-oriented programming through the Python programming language. The course includ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#digital">Digital</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 03, 2020
+	</small>
+</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/digital-transformation/">Digital Transformation at Bridgend College</a>
+	</h2>
+	<p class="excerpt">
+	   I am Digital Lead at Bridgend College and my remit is to enhance the delivery of the curriculum with emerging technologies and drive innovation across the curriculum; not just in IT o...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#digital">Digital</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Apr 16, 2020
+	</small>
+</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/new-publication-jcp/">New Publication</a>
+	</h2>
+	<p class="excerpt">
+	   Linear stability eigenmodal analysis for steady and temporally periodic boundary-layer flow configurations using a velocity-vorticity formulation
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#research">Research</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Mar 01, 2020
+	</small>
+</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/why-bridgend-college/">Why Bridgend College? #LoveOurColleges</a>
+	</h2>
+	<p class="excerpt">
+	   If anyone had said to me at 17 that I would be working for Bridgend College in 10 years time I wouldn’t have believed them. Attending the College as a student was never really an opti...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#digital">Digital</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Oct 17, 2019
+	</small>
+</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/new-publication-hci/">New Publication</a>
+	</h2>
+	<p class="excerpt">
+	   MyCompanion: A Digital Social Companion for Assisted Living
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#research">Research</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 01, 2019
+	</small>
+</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/you-will-survive/">You will Survive! [A PhD]</a>
+	</h2>
+	<p class="excerpt">
+	   It’s done! Finished! The PhD is over… I still can’t quite believe I’m able to say that. So to anyone reading this, whether you’re thinking about a PhD, just starting out or nearing th...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#research">Research</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 16, 2019
+	</small>
+</div>
+
+</div>
+
+        
+
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+        </div>
+
+    </div>
+
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>
+    <!-- <ol class="list-featured">				 -->
+        
+            <!-- <li class="mb-4"> -->
+            <div class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/digital-transformation/" class="text-dark">Digital Transformation at Bridgend College</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#digital">Digital</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+          </div>
+          <!-- </li> -->
+        
+            <!-- <li class="mb-4"> -->
+            <div class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/why-bridgend-college/" class="text-dark">Why Bridgend College? #LoveOurColleges</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#digital">Digital</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+          </div>
+          <!-- </li> -->
+        
+            <!-- <li class="mb-4"> -->
+            <div class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/you-will-survive/" class="text-dark">You will Survive! [A PhD]</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#research">Research</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+          </div>
+          <!-- </li> -->
+        
+    <!-- </ol> -->
+</div>
+
+    </div>
+
+</div>
+
+
+
+</div>
+:ET

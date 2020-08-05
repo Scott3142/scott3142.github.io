@@ -1,0 +1,103 @@
+I"Y<div class="container">
+  <h4 class="font-weight-bold spanborder"><span>Research</span></h4>
+
+  <div class="row gap-y listrecent listrecent listauthor">
+    <div class="col-lg-12 col-md-12 mb-4">
+    <div class="p-4 border rounded">
+      <h4 class="text-dark mb-0"> Interests </h4><br />
+      <div class="p-4 border rounded vdivide">
+        
+          <div class="row vdivide gap-y border rounded">
+            <div class="col-md-12">
+              <ul>
+                <li>Hydrodynamic stability theory</li>
+              </ul>
+            </div>
+          </div>
+        
+          <div class="row vdivide gap-y border rounded">
+            <div class="col-md-12">
+              <ul>
+                <li>Transition to turbulence</li>
+              </ul>
+            </div>
+          </div>
+        
+          <div class="row vdivide gap-y border rounded">
+            <div class="col-md-12">
+              <ul>
+                <li>Computational modelling</li>
+              </ul>
+            </div>
+          </div>
+        
+          <div class="row vdivide gap-y border rounded">
+            <div class="col-md-12">
+              <ul>
+                <li>Numerical methods for generalised eigenvalue problems</li>
+              </ul>
+            </div>
+          </div>
+        
+          <div class="row vdivide gap-y border rounded">
+            <div class="col-md-12">
+              <ul>
+                <li>Human-computer interaction</li>
+              </ul>
+            </div>
+          </div>
+        
+          <div class="row vdivide gap-y border rounded">
+            <div class="col-md-12">
+              <ul>
+                <li>Education</li>
+              </ul>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+    <div class="p-4 border rounded vdivide">
+      <h4 class="text-dark">Publications</h4><br />
+      
+        <div class="row vdivide gap-y border rounded">
+          <div class="col-md-12">
+          <strong>F. Loizides, K. E. Jones, D. Abbasi, C. Cardwell, I. Jones, L. Turner, A. Hassoulas, A. Bale, S. Morgan</strong>, MyCompanion: A Digital Social Companion for Assisted Living
+ (2019) | <em>17th IFIP TC.13 International Conference on Human-Computer Interaction</em>  | <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-29390-1_55" target="blank">https://link.springer.com/chapter/10.1007%2F978-3-030-29390-1_55</a>
+          </div>
+        </div>
+      
+      
+        <div class="row vdivide gap-y border rounded">
+          <div class="col-md-12">
+          <strong>S. Morgan &amp; C. Davies</strong>, Linear stability eigenmodal analysis for steady and temporally periodic boundary-layerflow configurations using a velocity-vorticity formulation
+ (2020) | <em>Journal of Computational Physics</em>  | <a href="https://doi.org/10.1016/j.jcp.2020.109325" target="blank">https://doi.org/10.1016/j.jcp.2020.109325</a>
+          </div>
+        </div>
+      
+        <div class="row vdivide gap-y border rounded">
+          <div class="col-md-12">
+          <strong>S. Morgan &amp; C. Davies</strong>, Stability of rotating disk boundary layers with a periodically modulated rotation rate
+ (2020) | <em>(in draft)</em> 
+          </div>
+        </div>
+      
+        <div class="row vdivide gap-y border rounded">
+          <div class="col-md-12">
+          <strong>S. Morgan</strong>, Stability of Periodically Modulated Rotating Disk Boundary Layers
+ (2019) | <em>PhD Thesis</em>  | <a href="http://orca.cf.ac.uk/117083/" target="blank">http://orca.cf.ac.uk/117083/</a>
+          </div>
+        </div>
+      
+        <div class="row vdivide gap-y border rounded">
+          <div class="col-md-12">
+          <strong>S. Morgan, A. Randle, R. Coombs, E. Yhnell</strong>, Giant Genes! The development of an interactive game to engage audiences in genetics
+ (2019) | <em>(in draft)</em> 
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+</div>
+:ET

@@ -1,0 +1,202 @@
+I"´"<div class="container">
+<h4 class="font-weight-bold spanborder"><span>Projects</span></h4>
+  <div class="row gap-y listrecent listrecent listauthor">
+    
+
+      <style> #more1 { display:none; }</style>
+
+      <div class="col-lg-6 col-md-6 mb-4">
+        <div class="p-4 border rounded">
+          <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><a href="/research"><img href="/research" alt="Research" src="/assets/images/function.png" class="rounded-circle" height="80" width="80" /></a></div>
+            <div class="col-md-9">
+              <a href="/research">
+                <h4 class="text-dark mb-0"> Research </h4>  
+                <div class="excerpt mb-2" id="less1">
+                  My research interests span fluid dynamics, computational modelling and mechanisms for flow transitio...                  
+                </div>                
+                <div class="excerpt mb-2" id="more1">
+                  My research interests span fluid dynamics, computational modelling and mechanisms for flow transition to turbulence. I have passing interests in all types of computational modelling, in particular relating to mathematical modelling of biological materials and processes. <br /><br />
+
+More recently I have been involved in research relating to human computer interaction and novel methods for STEM education.
+                  
+                </div>              
+              </a>
+              <a href="#" onclick="readMore1()" id="readMoreLink1">Read more...</a>              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script>
+        function readMore1() {
+          var moreText = document.getElementById("more1");
+          var lessText = document.getElementById("less1");
+          var linkText = document.getElementById("readMoreLink1");
+
+          if (linkText.innerHTML === "Read more...") {
+            linkText.innerHTML = "Read less...";
+            moreText.style.display = "block";
+            lessText.style.display = "none";
+          } else {
+            linkText.innerHTML = "Read more...";
+            moreText.style.display = "none";
+            lessText.style.display = "block";
+          }
+        }
+      </script>
+
+    
+
+      <style> #more2 { display:none; }</style>
+
+      <div class="col-lg-6 col-md-6 mb-4">
+        <div class="p-4 border rounded">
+          <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><a href="/scicomm"><img href="/scicomm" alt="Science Engagement" src="/assets/images/test.png" class="rounded-circle" height="80" width="80" /></a></div>
+            <div class="col-md-9">
+              <a href="/scicomm">
+                <h4 class="text-dark mb-0"> Science Engagement </h4>  
+                <div class="excerpt mb-2" id="less2">
+                  I am regularly involved in schools engagement and science communication events around the South Wale...                  
+                </div>                
+                <div class="excerpt mb-2" id="more2">
+                  I am regularly involved in schools engagement and science communication events around the South Wales area. If you are interested in finding out more about my outreach work, please get in touch!
+                  
+                </div>              
+              </a>
+              <a href="#" onclick="readMore2()" id="readMoreLink2">Read more...</a>              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script>
+        function readMore2() {
+          var moreText = document.getElementById("more2");
+          var lessText = document.getElementById("less2");
+          var linkText = document.getElementById("readMoreLink2");
+
+          if (linkText.innerHTML === "Read more...") {
+            linkText.innerHTML = "Read less...";
+            moreText.style.display = "block";
+            lessText.style.display = "none";
+          } else {
+            linkText.innerHTML = "Read more...";
+            moreText.style.display = "none";
+            lessText.style.display = "block";
+          }
+        }
+      </script>
+
+    
+
+      <style> #more3 { display:none; }</style>
+
+      <div class="col-lg-6 col-md-6 mb-4">
+        <div class="p-4 border rounded">
+          <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><a href="/teaching"><img href="/teaching" alt="Teaching" src="/assets/images/mathematics.png" class="rounded-circle" height="80" width="80" /></a></div>
+            <div class="col-md-9">
+              <a href="/teaching">
+                <h4 class="text-dark mb-0"> Teaching </h4>  
+                <div class="excerpt mb-2" id="less3">
+                  I have a passion for education and firmly believe that teaching is one of the world's most important...                  
+                </div>                
+                <div class="excerpt mb-2" id="more3">
+                  I have a passion for education and firmly believe that teaching is one of the world's most important professions. I have experience teaching at all levels of education from primary school through to University and I am always interested in novel teaching methods and practises.
+                  
+                </div>              
+              </a>
+              <a href="#" onclick="readMore3()" id="readMoreLink3">Read more...</a>              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script>
+        function readMore3() {
+          var moreText = document.getElementById("more3");
+          var lessText = document.getElementById("less3");
+          var linkText = document.getElementById("readMoreLink3");
+
+          if (linkText.innerHTML === "Read more...") {
+            linkText.innerHTML = "Read less...";
+            moreText.style.display = "block";
+            lessText.style.display = "none";
+          } else {
+            linkText.innerHTML = "Read more...";
+            moreText.style.display = "none";
+            lessText.style.display = "block";
+          }
+        }
+      </script>
+
+    
+
+      <style> #more4 { display:none; }</style>
+
+      <div class="col-lg-6 col-md-6 mb-4">
+        <div class="p-4 border rounded">
+          <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><a href="http://den01.co.uk"><img href="http://den01.co.uk" alt="Digital at Bridgend College" src="/assets/images/laptop.png" class="rounded-circle" height="80" width="80" /></a></div>
+            <div class="col-md-9">
+              <a href="http://den01.co.uk" target="blank">
+                <h4 class="text-dark mb-0"> Digital at Bridgend College </h4>  
+                <div class="excerpt mb-2" id="less4">
+                  I am Digital Lead at Bridgend College, responsible for technology enhanced teaching and learning. I ...                  
+                </div>                
+                <div class="excerpt mb-2" id="more4">
+                  I am Digital Lead at Bridgend College, responsible for technology enhanced teaching and learning. I am always interested in novel methods for education and I take a lead role in staff and student development across curriculum areas. If you are interested in collaborations or finding out more, please get in touch!
+                  
+                </div>              
+              </a>
+              <a href="#" onclick="readMore4()" id="readMoreLink4">Read more...</a>              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script>
+        function readMore4() {
+          var moreText = document.getElementById("more4");
+          var lessText = document.getElementById("less4");
+          var linkText = document.getElementById("readMoreLink4");
+
+          if (linkText.innerHTML === "Read more...") {
+            linkText.innerHTML = "Read less...";
+            moreText.style.display = "block";
+            lessText.style.display = "none";
+          } else {
+            linkText.innerHTML = "Read more...";
+            moreText.style.display = "none";
+            lessText.style.display = "block";
+          }
+        }
+      </script>
+
+    
+
+  </div>
+
+  <style> #iconHidden { display:none; }</style>
+
+  <div>
+    <a href="#iconHidden" onclick="readMoreIconCredit()" id="iconVisible">Icon credit...</a>
+    <span id="iconHidden">
+      Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>, licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="blank">CC 3.0 BY</a>
+    </span>
+  </div>
+
+  <script>
+    function readMoreIconCredit() {
+      var moreText = document.getElementById("iconHidden");
+      var lessText = document.getElementById("iconVisible");
+
+      moreText.style.display = "block";
+      lessText.style.display = "none";
+    }
+  </script>
+
+</div>
+:ET
