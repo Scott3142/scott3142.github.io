@@ -12,5 +12,8 @@
 *.fls
 *.fdb_latexmk
 
-#personal files
+#local site folder
 _site
+
+#misc nonsense
+.jekyll-cache

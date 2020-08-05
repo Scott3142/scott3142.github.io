@@ -1,8 +1,0 @@
-I"Œ<div class="row">
-	<div class="col-lg-12 mb-4">
-        	<div class="p-4 border rounded">
-			<p>{{ page.hero }}</p>
-		</div>
-	</div>
-</div>
-:ET
