@@ -2,7 +2,6 @@
 layout: post
 title:  "Why Bridgend College? #LoveOurColleges"
 author: scott
-tags: featured
 categories: [ Digital ]
 #image: assets/images/author.jpg
 ---

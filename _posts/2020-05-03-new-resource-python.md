@@ -3,6 +3,7 @@ layout: post
 title:  "New Resource - Python Programming"
 author: scott
 categories: [ Digital ]
+tags: featured
 published: true
 #image: assets/images/author.jpg
 ---
