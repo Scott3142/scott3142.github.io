@@ -1,5 +1,12 @@
 bc:
 
+  - authors: <strong>S. Morgan, A. Randle, R. Coombs, E. Yhnell</strong>
+    title: |
+      Giant Genes! The development of an interactive game to engage audiences in genetics
+    year: 2020
+    journal: Journal of STEM Outreach
+    url: https://www.jstemoutreach.org/article/18193-giant-genes-the-development-of-an-interactive-game-to-engage-audiences-in-genetics
+
   - authors: <strong>F. Loizides, K. E. Jones, D. Abbasi, C. Cardwell, I. Jones, L. Turner, A. Hassoulas, A. Bale, S. Morgan</strong>
     title: |
       MyCompanion: A Digital Social Companion for Assisted Living
@@ -28,9 +35,3 @@ cu:
     journal: PhD Thesis
     year: 2019
     url: http://orca.cf.ac.uk/117083/
-
-  - authors: <strong>S. Morgan, A. Randle, R. Coombs, E. Yhnell</strong>
-    title: |
-      Giant Genes! The development of an interactive game to engage audiences in genetics
-    year: 2019
-    journal: (in draft)
