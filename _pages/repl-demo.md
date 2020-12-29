@@ -11,7 +11,7 @@ permalink: "/repl-demo"
 
   <script>
     // attach handlers once iframe is loaded
-    document.getElementById('ifrm').onload = function() {
+    document.onload = function() {
 
         //hide right header
         document.getElementsByClassName('lite-header-right')[0].style.visibility = 'hidden';
