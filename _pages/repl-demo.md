@@ -7,7 +7,7 @@ permalink: "/repl-demo"
 <div class="container">
   <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
 
-  <iframe height="450px" width="100%" src="https://repl.it/@ScottMorgan/text-based-adventure-Scott3142?lite=true&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+  <iframe height="500px" width="100%" src="https://repl.it/@ScottMorgan/text-based-adventure-Scott3142?lite=true&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
   <script>
     // attach handlers once iframe is loaded
