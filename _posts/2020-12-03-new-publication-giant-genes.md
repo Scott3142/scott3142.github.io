@@ -12,7 +12,7 @@ published: true
 <br><br>
 
 - Scott Morgan, Atilla Randle, Rachel Coombs, Emma Yhnell
-- [https://doi.org/10.15695/jstem/v3i1.14]https://www.jstemoutreach.org/article/18193-giant-genes-the-development-of-an-interactive-game-to-engage-audiences-in-genetics)
+- [https://doi.org/10.15695/jstem/v3i1.14](https://www.jstemoutreach.org/article/18193-giant-genes-the-development-of-an-interactive-game-to-engage-audiences-in-genetics)
 
 <br>
 
