@@ -13,6 +13,7 @@ permalink: "/career"
           <div class="col-md-2 col-sm-3 mb-4 mb-md-0"><a href="{{ projectlink.url }}"><img href="#" alt="Bridgend College Logo" src="/assets/images/bclogo-circle.png" class="rounded-circle" height="80" width="80"></a></div>
           <div class="col-md-6 col-sm-6 mb-4 mb-md-0"><h4 class="text-dark mb-0 pt-4"> Bridgend College </h4><br></div>
           <div class="col-md-12 border rounded d-inline-block mt-1 mb-3 pt-2 pb-2 font-weight-normal">
+            Curriculum Manager (IT) (2021 - Present)<br>
             Digital Lead (2018 - Present)<br>
             Lecturer (2016 - 2018)<br>
           </div>
