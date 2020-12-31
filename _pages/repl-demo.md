@@ -1,5 +1,5 @@
 ---
-title: "Text-based Adventure Game | Demo"
+title: "Text-based Adventure Game - Demo"
 layout: default
 permalink: "/repl-demo"
 ---
